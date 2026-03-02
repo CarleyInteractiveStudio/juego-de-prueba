@@ -1,0 +1,105 @@
+{
+  "appName": "MiJuego",
+  "authorName": "Un Creador",
+  "appVersion": "1.0.0",
+  "engineVersion": "0.1.0-beta",
+  "iconPath": "",
+  "splashLogos": [],
+  "showEngineLogo": true,
+  "keystore": {
+    "path": "",
+    "pass": "",
+    "alias": "",
+    "aliasPass": ""
+  },
+  "layers": {
+    "sortingLayers": [
+      "Default",
+      "TransparentFX",
+      "Ignore Raycast",
+      "",
+      "Water",
+      "UI",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "collisionLayers": [
+      "Default",
+      "Player",
+      "Enemy",
+      "Ground",
+      "Agua"
+    ]
+  },
+  "tags": [
+    "Untagged",
+    "Suelo",
+    "Agua"
+  ],
+  "rendererMode": "canvas2d",
+  "ramLimit": 2048,
+  "preferences": {
+    "language": "ES",
+    "theme": "dark-modern",
+    "customColors": {
+      "bg": "#b8b8e5",
+      "header": "#882989",
+      "accent": "#393614"
+    },
+    "autosave": false,
+    "autosaveInterval": "30",
+    "scriptLang": "ces",
+    "showSceneGrid": false,
+    "snapping": false,
+    "gridSize": "",
+    "zoomSpeed": 1.1,
+    "ai": {
+      "provider": "gemini",
+      "model": "models/gemini-2.5-flash"
+    },
+    "carlPermissions": {
+      "canUseConsole": true,
+      "canManageFiles": true,
+      "canManipulateScenes": true,
+      "canDownloadFiles": true
+    },
+    "showTerminal": true,
+    "executionMode": "window",
+    "autoCloseGameWindow": true,
+    "layout": {
+      "columns": "220px 6px 1fr 6px 320px",
+      "rows": "minmax(0, 1.5fr) 6px minmax(0, 1fr)"
+    }
+  },
+  "allScenes": [
+    "GravityTest.ceScene"
+  ],
+  "startScene": "GravityTest.ceScene",
+  "libraries": [
+    "CallbackTest"
+  ]
+}
