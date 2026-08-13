@@ -1,6 +1,6 @@
 {
   "appName": "Batalla Infinita",
-  "appVersion": "1.0.0",
+  "appVersion": "1.0.1",
   "projectType": "2d",
   "rendererMode": "canvas2d",
   "isNewUser": false,
