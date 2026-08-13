@@ -1,105 +1,89 @@
 {
-  "appName": "MiJuego",
-  "authorName": "Un Creador",
+  "appName": "Batalla Infinita",
   "appVersion": "1.0.0",
-  "engineVersion": "0.1.0-beta",
-  "iconPath": "",
-  "splashLogos": [],
-  "showEngineLogo": true,
-  "keystore": {
-    "path": "",
-    "pass": "",
-    "alias": "",
-    "aliasPass": ""
-  },
+  "projectType": "2d",
+  "rendererMode": "canvas2d",
+  "isNewUser": false,
+  "engineVersion": "0.1.2",
+  "viewMode": "3d",
+  "graphicMode": "Realistic",
+  "realismLevel": 50,
   "layers": {
     "sortingLayers": [
       "Default",
       "TransparentFX",
       "Ignore Raycast",
       "",
-      "Water",
+      "Agua",
       "UI",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Background",
+      "Midground",
+      "Foreground",
+      "Player",
+      "Enemy",
+      "Items",
+      "VFX"
     ],
     "collisionLayers": [
       "Default",
+      "TransparentFX",
+      "Ignore Raycast",
+      "",
+      "Agua",
+      "UI",
+      "Ground",
       "Player",
       "Enemy",
-      "Ground",
-      "Agua"
+      "NPC",
+      "Items",
+      "VFX",
+      "Trigger"
     ]
   },
   "tags": [
     "Untagged",
-    "Suelo",
-    "Agua"
+    "Player",
+    "Enemy",
+    "Ground",
+    "Bullet",
+    "Item",
+    "Obstacle",
+    "Water",
+    "NPC",
+    "Trigger",
+    "Suelo"
   ],
-  "rendererMode": "canvas2d",
   "ramLimit": 2048,
-  "preferences": {
-    "language": "ES",
-    "theme": "dark-modern",
-    "customColors": {
-      "bg": "#b8b8e5",
-      "header": "#882989",
-      "accent": "#393614"
-    },
-    "autosave": false,
-    "autosaveInterval": "30",
-    "scriptLang": "ces",
-    "showSceneGrid": false,
-    "snapping": false,
-    "gridSize": "",
-    "zoomSpeed": 1.1,
-    "ai": {
-      "provider": "gemini",
-      "model": "models/gemini-2.5-flash"
-    },
-    "carlPermissions": {
-      "canUseConsole": true,
-      "canManageFiles": true,
-      "canManipulateScenes": true,
-      "canDownloadFiles": true
-    },
-    "showTerminal": true,
-    "executionMode": "window",
-    "autoCloseGameWindow": true,
-    "layout": {
-      "columns": "220px 6px 1fr 6px 320px",
-      "rows": "minmax(0, 1.5fr) 6px minmax(0, 1fr)"
-    }
+  "keystore": {
+    "path": "",
+    "pass": "",
+    "alias": "",
+    "aliasPass": ""
+  },
+  "appAuthor": "Carley Interactive Studio",
+  "appIcon": "Assets/portada.jpg",
+  "method": "web",
+  "includeUnusedAssets": false,
+  "runAfterBuild": true,
+  "resourceLoadingMode": "preload",
+  "exportTarget": "zip",
+  "startScene": "default.ceScene",
+  "includedScenes": [
+    "default.ceScene"
+  ],
+  "splashScreens": {
+    "show": true,
+    "showEngineLogo": true,
+    "engineLogoDuration": 5,
+    "list": [
+      {
+        "path": "Assets/C.png",
+        "duration": 5
+      }
+    ]
   },
   "allScenes": [
-    "GravityTest.ceScene"
+    "default.ceScene"
   ],
-  "startScene": "GravityTest.ceScene",
-  "libraries": [
-    "CallbackTest"
-  ]
+  "libraries": []
 }

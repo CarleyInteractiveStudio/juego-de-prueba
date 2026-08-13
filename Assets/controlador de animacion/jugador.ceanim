@@ -1,0 +1,173 @@
+{
+  "name": "jugador",
+  "entryState": "Parado",
+  "smartMode": false,
+  "states": [
+    {
+      "name": "Parado",
+      "animationClip": "Assets/120x80_PNGSheets/_Idle.cea",
+      "speed": 10,
+      "position": {
+        "x": 297.77777099609375,
+        "y": 200.74078369140625
+      },
+      "loop": false
+    },
+    {
+      "name": "Arriba",
+      "animationClip": "Assets/120x80_PNGSheets/_Jump.cea",
+      "speed": 10,
+      "position": {
+        "x": 300,
+        "y": 50
+      }
+    },
+    {
+      "name": "Abajo",
+      "animationClip": "Assets/120x80_PNGSheets/_Crouch.cea",
+      "speed": 10,
+      "position": {
+        "x": 299.25927734375,
+        "y": 351.4814147949219
+      },
+      "loop": true,
+      "endFrame": 1,
+      "startFrame": 0
+    },
+    {
+      "name": "Izquierda",
+      "animationClip": "Assets/120x80_PNGSheets/_Run.cea",
+      "speed": 10,
+      "position": {
+        "x": 62.96295166015625,
+        "y": 204.44448852539062
+      }
+    },
+    {
+      "name": "Derecha",
+      "animationClip": "Assets/120x80_PNGSheets/_Run.cea",
+      "speed": 10,
+      "position": {
+        "x": 500,
+        "y": 200
+      }
+    },
+    {
+      "name": "abajoderecha",
+      "animationClip": "Assets/120x80_PNGSheets/_CrouchWalk.cea",
+      "speed": 12,
+      "position": {
+        "x": 499.6297302246094,
+        "y": 350.0000457763672
+      },
+      "flipX": false,
+      "flipY": false
+    },
+    {
+      "name": "abajoizquierda",
+      "animationClip": "Assets/120x80_PNGSheets/_CrouchWalk.cea",
+      "speed": 12,
+      "position": {
+        "x": 41.851837158203125,
+        "y": 344.8147888183594
+      },
+      "flipX": true,
+      "flipY": false
+    }
+  ],
+  "transitions": [
+    {
+      "from": "Parado",
+      "to": "Abajo",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "Abajo",
+      "to": "Parado",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "Parado",
+      "to": "Derecha",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "Derecha",
+      "to": "Parado",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "Parado",
+      "to": "Arriba",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "Arriba",
+      "to": "Parado",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "Parado",
+      "to": "Izquierda",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "Izquierda",
+      "to": "Parado",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "abajoderecha",
+      "to": "Parado",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "Parado",
+      "to": "abajoderecha",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "abajoizquierda",
+      "to": "Parado",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    },
+    {
+      "from": "Parado",
+      "to": "abajoizquierda",
+      "hasExitTime": true,
+      "duration": 0.3,
+      "conditions": []
+    }
+  ],
+  "movementMapping": {
+    "1": "Arriba",
+    "3": "Izquierda",
+    "4": "Parado",
+    "5": "Derecha",
+    "6": "abajoizquierda",
+    "7": "Abajo",
+    "8": "abajoderecha"
+  }
+}

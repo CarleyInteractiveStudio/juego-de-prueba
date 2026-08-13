@@ -1,0 +1,3120 @@
+[ES]
+# Header
+INICIAR_SESION: Iniciar Sesión
+SILENCIAR_MUSICA: Silenciar Música
+
+# General
+TUTORIALES: Tutoriales
+VER_AYUDA: Ver Ayuda
+COMPARTIR_MOTOR_DESC: ¡Creative Engine es asombroso! Únete a la comunidad de creadores.
+EMPEZAR: Empezar a Crear
+CONTACTO: Contacto
+SOPORTE: Soporte
+OPINIONES: Opiniones
+RECLAMOS: Reclamos
+INTEGRACIONES_IA: Integraciones de IA
+API_KEY: Clave de API
+OBTENER_API_KEY: Obtener una clave en Google AI Studio
+DONAR: Donar con PayPal
+DISCORD: Unirte a Discord
+CREDITOS: Hecho por Carley Interactive Studio con la ayuda de Google Jules.
+LICENCIA_BTN: Lee nuestra licencia
+CONOCE_JUEGOS: conoce juegos hecho con con nuestro motor
+VERIFICANDO: Verificando...
+CUENTA: Cuenta
+DONAR_BOTON: Donar
+QUE_HACEMOS_DONACIONES: ¿Qué hacemos con sus donaciones?
+NUESTROS_CANALES: Nuestros Canales
+CANALES: Canales
+SOLUCION_RAPIDA: Soluciones Rápidas
+PROYECTO_COLABORATIVO: Proyecto Colaborativo
+UNIRSE_COLAB: Unirse a una Colaboración
+UNIRSE_PROYECTO_TITULO: Unirse a un Proyecto
+UNIRSE_PROYECTO_DESC: Introduce el código que te enviaron para empezar a trabajar juntos en tiempo real.
+CONECTAR: Conectar
+CODIGO_INVITACION: Código de Invitación:
+UNIRSE: Unirse
+ACTIVAR_COLABORACION: Iniciar Colaboración
+COMPARTIR_CON_CARLEY: Compartir con Carley
+COMPARTIR_CON_CARLEY_HINT: Comparte tus códigos cada vez que publicas un videojuego
+COMPARTIR_CON_CARLEY_DESC: Agradeceremos mucho que compartas tus códigos CES porque nos va a ayudar a entrenar nuestro modelo de IA Carley Creative code que fue diseñado desde 0 especialmente para el motor. El modelo consumirá menos de 1 GB de RAM, lo que hará que su uso sea menos costoso en los servidores y no tengamos que pagar mucho. También hará que más usuarios tengan acceso a la IA y está hecho de forma que programar en el motor sea muy fácil y sencillo. No compartimos su código con nadie, solo lo usaremos con fines de entrenamiento para que en un futuro cercano solo digas al motor lo que quieres y lo convierta en realidad.
+LICENCIA: Licencia
+POLITICA_PRIVACIDAD: Política de Privacidad
+COOKIES: Cookies
+ELIMINAR_PROYECTO: Borrar Proyecto Seleccionado
+MI_CUENTA: Mi Cuenta
+CARGANDO_PROYECTO: Cargando tu proyecto...
+CARGANDO_LIBS: Cargando librerías...
+HA_OCURRIDO_ERROR: Ha ocurrido un error.
+REINTENTAR: Reintentar
+VOLVER_INICIO: Volver al Inicio
+OPT_LEVEL_NOTICE: Nivel de Optimización: {level} (FPS: {fps})
+CONCEDER_PERMISOS: Conceder Permisos
+ERROR_PERMISOS_DETALLES: Creative Engine necesita tu permiso para leer y escribir en la carpeta de tus proyectos.
+CARL_WELCOME_MSG: ¡Hola! Soy Carl, tu asistente de Creative Engine. ¿En qué puedo ayudarte a construir hoy?
+CARL_V1_MANTENIMIENTO: Carl V1 está actualmente en mantenimiento cerebral. Por favor, usa un modelo externo (Gemini/OpenAI/Claude) configurándolo en Preferencias.
+CARL_ERROR_CONEXION: No puedo conectar con {provider}. Por favor, asegúrate de haber configurado tu API Key correctamente en el panel de Preferencias.
+CARL_BUSCANDO_MODELO: El modelo por defecto no funcionó. Buscando uno compatible para ti...
+CARL_MODELO_ENCONTRADO: ¡Encontré un modelo compatible! Usando '{model}'. Reintentando...
+CARL_ERROR_SIN_MODELO: No pude encontrar un modelo de chat compatible en la lista de tu API key.
+CARL_ERROR_LISTAR_MODELOS: No pude listar los modelos disponibles para tu API key. Revisa la consola.
+CARL_BUSY_MSG: espera Carl te atendera en seguida no pierdas la paciencia
+
+# Welcome Section
+WELCOME_TITLE: Creative Engine
+WELCOME_SUBTITLE: Tu juego empieza aquí. Lo que imagines, lo construyes.
+WELCOME_DESCRIPTION: Un motor de videojuegos 2D gratuito para crear directamente en tu navegador. Diseña sin límites, crea sin miedo y publica con orgullo.
+WELCOME_DESCRIPTION_LONG: ¡Bienvenido a Creative Engine! Esperamos que disfrute de una nueva experiencia en la creación de videojuegos. Este motor está diseñado especialmente para ti, pensando en facilitar tu flujo de trabajo creativo.
+WELCOME_DEV_NOTICE: Ten en cuenta que el motor se encuentra en una fase inicial y de desarrollo constante, por lo que puede presentar fallos inesperados. Si encuentras uno, con mucho gusto estaremos esperando que nos lo digas desde el reporte.
+WELCOME_COMMUNITY: Puedes unirte a nuestras comunidades y seguirnos en nuestros canales para estar siempre activo. ¡Únete a nuestro canal de WhatsApp! Tu apoyo ayuda a que el proyecto mejore cada día. No necesitas ser un programador profesional para apoyar al motor; también puedes colaborar mediante donaciones.
+COPYRIGHT_FOOTER: &copy; 2026 Carley Interactive Studio. Todos los derechos reservados.
+PRUEBA_VIDSPRI: También prueba VidSpri
+NUESTRO_SITIO_WEB: Nuestro sitio web
+COMPARTIR_MOTOR: Compartir Motor
+MAS: Más
+TIKTOK: TikTok
+
+# Quotes
+QUOTE_1: Tu juego empieza aquí. Lo que imagines, lo construyes.
+QUOTE_2: No necesitas experiencia, solo visión. Creative Engine hace el resto.
+QUOTE_3: Cada escena que creas es una ventana a tu mundo. Ábrela.
+QUOTE_4: No estás usando un motor. Estás liberando tu potencial creativo.
+QUOTE_5: ¿Tienes una idea? Aquí se convierte en juego.
+QUOTE_6: Diseña sin límites. Crea sin miedo. Publica con orgullo.
+QUOTE_7: Tu historia merece ser jugada. Creative Engine te da el control.
+QUOTE_8: No esperes a que alguien más lo haga. Hazlo tú, hoy.
+QUOTE_9: Cada píxel que colocas es una decisión. Cada decisión, una obra.
+QUOTE_10: La creatividad no se enseña. Se desbloquea.
+
+# Auth State
+HOLA: Hola
+CERRAR_SESION: Cerrar Sesión
+AUTH_LOGIN: Iniciar Sesión
+AUTH_EMAIL: Correo Electrónico
+AUTH_PASSWORD: Contraseña
+AUTH_NO_ACCOUNT: ¿No tienes una cuenta?
+AUTH_FORGOT_PASS: ¿Olvidaste tu contraseña?
+AUTH_SIGNUP: Registrarse
+AUTH_USERNAME: Nombre de Usuario
+AUTH_PASS_HINT: La contraseña debe tener al menos 6 caracteres.
+AUTH_ALREADY_ACCOUNT: ¿Ya tienes una cuenta?
+AUTH_RESET_PASS: Recuperar Contraseña
+AUTH_RESET_HINT: Ingresa tu correo electrónico y te enviaremos un enlace para restablecer tu contraseña.
+AUTH_SEND_RESET: Enviar Enlace de Recuperación
+AUTH_BACK_TO_LOGIN: Volver a Iniciar Sesión
+NO_TIENES_CUENTA: ¿No tienes una cuenta?
+REGISTRARSE: Regístrate
+OLVIDE_CONTRASENA: Olvidé mi contraseña
+YA_TIENES_CUENTA: ¿Ya tienes una cuenta?
+RECUPERAR_CONTRASENA: Recuperar Contraseña
+ENVIAR_ENLACE: Enviar Enlace
+VOLVER_LOGIN: Volver al Inicio de Sesión
+LOGGED_IN_AS: Sesión iniciada como:
+REGISTRANDO: Registrando...
+ERROR_REGISTRO: Error de Registro
+REGISTRO_EXITOSO: ¡Registro Exitoso!
+REGISTRO_MSG: Revisa tu correo para verificar tu cuenta.
+INICIANDO_SESION_PROGRESO: Iniciando Sesión...
+ERROR_LOGIN: Error de Inicio de Sesión
+AUTH_RESET_SENT: Si existe una cuenta con este correo, se ha enviado un enlace de recuperación.
+ENVIANDO: Enviando...
+
+# Scene View Tools
+HERRAMIENTA_MOVER: Mover
+HERRAMIENTA_ROTAR: Rotar
+HERRAMIENTA_TERRENO: Terreno
+HERRAMIENTA_ESCALAR: Escalar
+HERRAMIENTA_ESCALAR_EJES: Ejes
+HERRAMIENTA_UNIVERSAL: Todo
+HERRAMIENTA_PAN: Mano
+HERRAMIENTA_ESCULPIR: Esculpir
+HERRAMIENTA_PINCEL: Pincel
+HERRAMIENTA_CUBO: Cubo
+HERRAMIENTA_MULTI: Multi
+HERRAMIENTA_GOMA: Borrar
+
+# Terrain Editor
+TERRENO_ESCULPIR: Esculpir
+TERRENO_PINTAR: Pintar
+TERRENO_ARBOLES: Árboles
+TERRENO_VEGETACION: Vegetación
+BRUSH_SIZE: Tamaño de Pincel
+BRUSH_STRENGTH: Fuerza
+TERRENO_ELEV_BAJAR: Elevar/Bajar
+TERRENO_SUAVIZAR: Suavizar
+TERRENO_APLANAR: Aplanar
+TERRENO_HUECO: Hueco (Cueva)
+COLOR_PINTURA: Color / Pintura 3D
+SOLTAR_PREFAB_ARBOL: Suelta un Prefab de Árbol aquí
+
+# Launcher
+PLANTILLA: Plantilla
+PLANTILLA_VACIA: Vacío
+PLANTILLA_PLATAFORMAS: Plataformas
+PLANTILLA_TOPDOWN: Top-down
+HINT_PLANTILLA: Empieza con un proyecto pre-configurado y código comentado.
+GRAFICOS_AVANZADOS: Gráficos Avanzados
+OPTIMIZACION_GRAFICA: Optimización y Detalle
+RESOURCE_LOADING_MODE: Modo de Carga de Recursos
+PRELOAD_STABLE: Precarga (Estable - Carga todo antes de iniciar)
+LAZY_LOAD_FAST: Carga Perezosa (Inicio Rápido - Carga mientras se juega)
+CARGANDO_RECURSOS: Cargando recursos...
+CARPETA: Carpeta
+ANADIR_PROYECTO: Añadir Proyecto
+CREAR_PROYECTO: Crear Proyecto
+MIS_PROYECTOS: Mis Proyectos
+CREAR_NUEVO_PROYECTO: Crear Nuevo Proyecto
+TIPO_PROYECTO: Tipo de Proyecto:
+PROYECTO_2D: Proyecto 2D
+PROYECTO_3D: Proyecto 3D
+MUY_PRONTO: Muy pronto
+AVISO_STORAGE: Aviso Importante: Tus proyectos se guardan localmente en la carpeta que elijas. Creative Engine no almacena ninguna información en servidores externos.
+NOMBRE_PROYECTO: Nombre del Proyecto:
+HINT_PROYECTO: Usa letras, números y guiones. Sin espacios ni caracteres especiales.
+SOY_NUEVO: Soy nuevo
+HINT_SOY_NUEVO: Activa esto para recibir una guía básica al abrir el proyecto.
+CREAR: Crear
+SIN_PROYECTOS: Aún no tienes proyectos. ¡Crea uno para empezar!
+VER_UBICACION: Ver ubicación
+UBICACION_DEL_PROYECTO: Ubicación del Proyecto
+HINT_RUTA_PROYECTO: El proyecto se encuentra en la carpeta de proyectos configurada, dentro de la subcarpeta:
+TIPO_COLAB: Tipo de Colaboración:
+COLAB_LOCAL: Local
+COLAB_ONLINE: Online
+HINT_COLAB_LOCAL: Conéctate a un compañero en tu misma red wifi.
+HINT_COLAB_ONLINE: Conéctate a través de los servidores de Carley.
+INGRESAR_CODIGO: Ingresar Código
+NO_DISPONIBLE: No disponible
+
+# Libraries
+LIBRERIAS: Librerías
+IMPORTAR: Importar
+EXPORTAR: Exportar
+DOCS_API: Documentación API
+SIN_LIBRERIAS: No se encontraron librerías en la carpeta /lib del proyecto.
+SIN_LIBRERIAS_HINT: Usa 'Crear' para empezar una nueva o 'Importar' para añadir un archivo .celib existente.
+CREAR_NUEVA_LIBRERIA: Crear Nueva Librería
+INFO_BASICA: Información Básica
+NOMBRE_LIBRERIA: Nombre de la Librería
+AUTOR_ORG: Autor / Organización
+VERSION: Versión
+FIRMA: Firma (Opcional)
+ICONO_LIBRERIA: Icono de la Librería
+HINT_ICONO_LIB: Icono principal que se mostrará en la tienda.
+ICONO_AUTOR: Icono del Autor
+HINT_ICONO_AUTOR: Un logo pequeño o foto de perfil.
+FUNC_PERMISOS: Funcionalidad y Permisos
+DESCRIPCION_USO: Descripción / Cómo usar
+ARCHIVOS_LIB: Archivos de la Librería (.js, .ces)
+DROP_ARCHIVOS: Arrastra y suelta los archivos aquí, o haz clic para seleccionar.
+HINT_ARCHIVOS_LIB: Añade uno o más archivos. El motor los combinará. Si usas la API del editor (paneles, etc.), el script principal debe ser un .js.
+PERMISO_WINDOWS: Permitir crear ventanas y paneles en el editor.
+PERMISO_RUNTIME: Permitir acceso a sus funciones desde scripts (.ces).
+PERMISO_TOOL: Es una herramienta interna para el motor (ej: traducciones).
+PERMISO_COMPONENTS: Permitir registrar componentes personalizados.
+PERMISO_ASSETS: Permitir crear y modificar assets.
+CREAR_LIBRERIA: Crear Librería
+DETALLES_LIBRERIA: Detalles de la Librería
+INFORMACION: Información
+ESTADO_PERMISOS: Estado y Permisos
+ESTADO: Estado
+ACTIVO: Activo
+INACTIVO: Inactivo
+ACTIVAR: Activar
+GESTIONAR: Gestionar
+ACTIVIDAD: Actividad
+DESACTIVAR: Desactivar
+ACTIVADA: activada
+DESACTIVADA: desactivada
+SIN_DESCRIPCION: Sin descripción.
+SIN_PERMISOS: Sin permisos especiales.
+IMPORTAR_LIBRERIA: Importar Librería
+CARL_CHAT: Chat
+CARL_ACTIVIDAD: Actividad
+NO_ACTIVIDAD_RECIENTE: No hay actividad reciente.
+MODO_EJECUCION: Modo de Ejecución
+PLAN_ACTUAL: Plan Actual
+APROBAR_CONTINUAR: Aprobar y Continuar
+CON_PERMISO: Con Permiso
+MODO_VISUAL: Visual (Paso a paso)
+MODO_AUTOMATICO: Automático
+
+# General
+FOROS: Foros
+DONACIONES: Donaciones
+LEGAL: Legal
+MIS_JUEGOS: Mis Juegos
+PUBLICAR_JUEGO: Publicar Juego
+ENLACE_GITHUB: Enlace de GitHub
+SUBIR_FOTO_JUEGO: Subir foto para Creative Games
+DESCRIPCION_JUEGO: Descripción del Juego
+SUBIR: Subir
+VERIFICAR_PROYECTO: Verificar Proyecto
+BORRAR_JUEGO: Borrar Juego
+JUGADAS: Jugadas
+COMENTARIOS: Comentarios
+ME_GUSTAS: Me Gusta
+
+# Asset Browser
+CREAR_CARPETA: Crear Carpeta
+NOMBRE_CARPETA_PROMPT: Introduce el nombre de la nueva carpeta:
+CREAR_CONTROLADOR_ANIMACION: Crear Controlador de Animación
+NOMBRE_CONTROLADOR_PROMPT: Introduce el nombre del nuevo controlador (.ceanim):
+CREAR_PREFAB: Crear Prefab
+NOMBRE_PREFAB_PROMPT: Introduce el nombre del nuevo prefab (.ceprefab):
+CREAR_SCRIPT_CHC: Crear Script H-Code
+NOMBRE_SCRIPT_PROMPT: Introduce el nombre del nuevo script:
+CREAR_SCRIPT: Crear Script
+CREAR_ESCENA: Crear Escena
+NOMBRE_ESCENA_PROMPT: Introduce el nombre de la nueva escena (.ceScene):
+CREAR_ANIMACION: Crear Asset de Animación
+NOMBRE_ANIMACION_PROMPT: Introduce el nombre del nuevo asset (.cea):
+CREAR_README: Crear Archivo Léame
+NOMBRE_ARCHIVO_PROMPT: Introduce el nombre del archivo:
+CREAR_PALETA_TILES: Crear Paleta de Tiles
+NOMBRE_PALETA_PROMPT: Introduce el nombre de la nueva paleta (.cepalette):
+CONFIRMAR_BORRADO: Confirmar Borrado
+BORRAR_ASSET_CONFIRM: ¿Estás seguro de que quieres borrar
+ACCION_IRREVERSIBLE: Esta acción no se puede deshacer.
+RENOMBRAR_ASSET: Renombrar Asset
+INTRODUCE_NUEVO_NOMBRE: Introduce el nuevo nombre para
+CARPETA_VACIA: La carpeta está vacía
+ARCHIVO_LEAME: Archivo Léame (.md)
+ASSET_ANIMACION: Asset de Animación (.cea)
+IMAGE: Imagen
+TERRENO: Terreno
+TERRENO_3D: Terreno 3D
+CANVAS: Canvas
+PANEL: Panel
+COMBATANT: Combatiente
+HEALTH_BAR: Barra de Salud
+
+# Editor Menubar
+ARCHIVO: Archivo
+EDITAR: Editar
+VENTANA: Ventana
+AYUDA: Ayuda
+CURSO_SCRIPTING: Curso de Scripting
+REPORTAR_FALLOS: Reportar Bugs/Errores/Fallos
+DOCUMENTACION: Documentación
+NUEVA_ESCENA: Nueva Escena
+ABRIR_ESCENA: Abrir Escena...
+GUARDAR_ESCENA: Guardar Escena
+IMPORTAR_PROYECTO: Importar Proyecto...
+EXPORTAR_PROYECTO: Exportar Proyecto...
+IMPORTAR_ASSET: Importar Asset...
+IMPORTAR_MODELO_3D: Importar Modelo 3D...
+CONFIG_PROYECTO: Configuración del Proyecto
+PREFERENCIAS: Preferencias
+
+# Editor Windows
+ESCENA: Escena
+JERARQUIA: Jerarquía
+INSPECTOR: Inspector
+NAVEGADOR: Navegador
+CONSOLA: Consola
+DEPURADOR: Depurador
+EDITOR_ANIMACION: Editor de Animaciones
+CONTROLADOR_ANIMACION: Controlador de Animación
+PALETA_TILES: Tiles
+EDITOR_SPRITES: Sprites
+CONTROL_AMBIENTE: Ambiente
+EDITOR_PARTICULAS: Editor de Partículas
+SCRIPTING_VISUAL: Scripting Visual
+VARIABLES: Variables
+LOGICA: Lógica
+FUNCIONES: Funciones
+CREAR_VARIABLE: Crear Variable
+ASIGNAR_VARIABLE: Asignar Variable
+SUMAR_VARIABLE: Sumar a Var
+ESTABLECER_GLOBAL: Establecer Global
+SI_CONDICION: Si (Condición)
+NUEVA_FUNCION: Nueva Función
+LLAMAR_FUNCION: Llamar Función
+VARIABLES_ACTIVAS: Variables Activas
+PS_SELECT_HINT: Selecciona una Materia con Sistema de Partículas para empezar.
+FUEGO: Fuego
+HUMO: Humo
+EXPLOSION: Explosión
+MAGIA: Magia
+EMISION: Emisión
+MAX_PARTICULAS: Máx Partículas
+TASA_EMISION: Tasa Emisión
+FISICA_TIEMPO: Física y Tiempo
+VIDA_SEG: Vida (seg)
+DISPERSION: Dispersión (º)
+COLOR_INICIO: Color Inicio
+COLOR_FIN: Color Fin
+TAMANO_INICIO: Tamaño Inicio
+TAMANO_FIN: Tamaño Fin
+DESVANECER_ALPHA: Desvanecer Alpha
+SISTEMA_VERIFICACION: Verificación
+ACTUALIZACIONES: Actualizaciones
+REINICIAR_VENTANAS: Reiniciar Ventanas
+ACTIVIDAD_COLABORATIVA: Actividad Colaborativa
+TIENDA_ASSETS: Tienda
+VID_SPRI: Vid Spri
+VISTA_ESCENA: Escena
+VISTA_JUEGO: Juego
+VISTA_CODIGO: Código
+VISTA_TERMINAL: Terminal
+
+# Hierarchy Context
+CIRCLE_COLLIDER_2D: Círculo 2D
+CREAR_MATERIA: Crear Materia
+MATERIA_VACIA: Vacía
+MATERIA_2D: 2D
+MATERIA_3D: 3D
+CUBE: Cubo
+SPHERE: Esfera
+PLANE: Plano
+SPRITE: Sprite
+TILEMAP: Tilemap
+TERRENO_2D: Terreno 2D
+PARALLAX: Parallax
+RECTANGULO: Rectángulo
+CIRCULO: Círculo
+TRIANGULO: Triángulo
+TRIANGLE: Triángulo 3D
+CAPSULA: Cápsula
+UI: UI
+BOTON: Botón
+TEXTO: Texto
+LUZ: Luz
+LUZ_2D: Luz 2D
+LUZ_3D: Luz 3D
+LUZ_PUNTO: Luz Punto
+LUZ_FOCAL: Luz Focal
+DIRECTIONALLIGHT3D: Luz Direccional
+POINTLIGHT3D: Luz Punto 3D
+SPOTLIGHT3D: Luz Focal 3D
+LUZ_FORMA_LIBRE: Luz Libre
+LUZ_SPRITE: Luz Sprite
+CAMARA: Cámara
+AUDIO: Audio
+VIDEO: Video
+WATER: Agua
+LINE_COLLIDER: Líneas
+BONE: Hueso
+SKELETON: Esqueleto
+IK_MANAGER: Gestor IK
+IMPORTAR_ESQUELETO_SPINE: Importar Spine
+ERROR_IMPORTAR_SIN_OBJETO: Selecciona un objeto en la jerarquía para importar el esqueleto como hijo.
+ESQUELETO_IMPORTADO: Esqueleto importado correctamente.
+WEIGHT_PAINTER: Pintor de Pesos
+ESCENA_VACIA: La escena está vacía.<br>Click derecho para crear un objeto.
+RENOMBRAR: Renombrar
+DUPLICAR: Duplicar
+ELIMINAR: Borrar
+
+# Inspector
+ADD_LEY: Añadir Ley
+LEY: Ley
+LEYES: Leyes
+TRANSFORM: Transform
+POSICION: Posición
+ROTACION: Rotación
+ESCALA: Escala
+MOVEMENT_BASIC: Movimiento (Básico)
+MOVEMENT_LATERAL: Movimiento Lateral (2D)
+MOVEMENT_TOPDOWN: Movimiento Superior (2D)
+TEXTURE_RENDER: Renderizador de Textura
+VERTICAL_LAYOUT: Auto-Disposición Vertical
+HORIZONTAL_LAYOUT: Auto-Disposición Horizontal
+GRID_LAYOUT: Auto-Disposición Rejilla
+SIZE_FITTER: Ajuste de Tamaño
+VIDEO_PLAYER: Reproductor de Vídeo
+HEALTH_COMPONENT: Vida (Health)
+ATTACK_COMPONENT: Ataque (Attack)
+SCROLL_RECT: Rect de Desplazamiento
+UI_MASK: Máscara UI
+UI_COLLIDER: Colisionador UI
+PATROL_COMPONENT: Patrulla (Patrol)
+POLYGON_COLLIDER_2D: Colisionador Polígono 2D
+UI_TRANSFORM: Transformación UI
+UI_IMAGE: Imagen UI
+UI_TEXT: Texto UI
+SPRITE_RENDERER: Renderizador de Sprite
+AUDIO_SOURCE: Fuente de Audio
+SUSPENSION_HC: Suspensión HC
+VEHICLE_TOPDOWN: Vehículo Top-Down
+PLANE_CONTROLLER: Controlador de Avión
+HELICOPTER_CONTROLLER: Controlador de Helicóptero
+SKINNED_MESH_RENDERER_3D: Renderizador de Malla con Huesos 3D
+ANIMATOR_3D: Animador 3D
+SKELETON_RENDERER: Renderizador de Esqueleto
+IK_MANAGER_2D: Gestor IK 2D
+BASIC_AI: IA Básica
+RIGIDBODY_2D: Rigidbody 2D
+BOX_COLLIDER_2D: Colisionador Caja 2D
+BODY_TYPE: Tipo de Cuerpo
+DYNAMIC: Dinámico
+STATIC: Estático
+KINEMATIC: Cinemático
+RIGIDBODY_COLLIDER_WARNING: El Rigidbody necesita un Colisionador para interactuar físicamente.
+PROJECTILE_LAUNCHER_COMPONENT: Lanzador de Proyectiles
+AUTO_DESTROY_COMPONENT: Destrucción Automática
+CAMERA_FOLLOW_COMPONENT: Seguimiento de Cámara
+PROP_FLIP_X: Voltear Horizontal
+PROP_FLIP_Y: Voltear Vertical
+NADA_SELECCIONADO: Nada seleccionado
+ACTIVAR_DESACTIVAR_MATERIA: Activar/Desactivar Materia
+TAG: Tag
+LAYER: Renderizado
+ADD_TAG_ELLIPSIS: Añadir Tag...
+EDIT_LAYERS_ELLIPSIS: Editar Renderizado...
+SELECCIONAR_TAGS: Seleccionar Tags
+MULTIPLE: Múltiple
+TAGS_SELECTOR_INSTRUCTION: Selecciona las etiquetas que deseas asignar a este objeto:
+SELECCIONAR_LAYERS: Seleccionar Renderizado
+LAYERS_SELECTOR_INSTRUCTION: Selecciona los renderizados (capas de dibujo) que deseas asignar a este objeto:
+AÑADIR_LEY_TITULO: Añadir Ley (Componente)
+CAT_AUDIO: Audio/Video
+CAT_RENDERIZADO: Renderizado
+CAT_MAPA: Mapa
+CAT_ILUMINACION: Iluminación
+CAT_UTILIDADES: Utilities
+CAT_ANIMACION: Animación
+CAT_CAMARA: Cámara
+CAT_FISICAS: Físicas
+CAT_OPTIMIZACION: Optimización
+CAT_UI: UI
+CAT_VEHICULOS_LATERAL: Vehículos Vista Lateral (2D)
+CAT_VEHICULOS_CENITAL: Vehículos Vista Superior (Top-Down)
+CAT_DISPAROS_LATERAL: Disparos Vista Lateral
+CAT_DISPAROS_CENITAL: Disparos Vista Superior (Top-Down)
+CAT_IA: Inteligencia Artificial (IA)
+CAT_AVENTURA_ROL: Aventura y Rol
+CAT_FPS_LATERAL: FPS Vista Lateral
+CAT_FPS_CENITAL: FPS Vista Superior
+CAT_BASICO_3D: Básico 3D
+CAT_FISICA_3D: Física 3D
+CAT_AUDIO_3D: Audio 3D
+CAT_CAMARA_3D: Cámara 3D
+CAT_OTROS_3D: Otros 3D
+CAT_SCRIPTING: Scripting
+COMPONENTES_PERSONALIZADOS: Componentes Personalizados
+SCRIPTS: Scripts
+ESCANEO_PROGRESO: Escaneo de scripts ya en progreso...
+BUSCANDO_SCRIPTS: Buscando scripts...
+SIN_SCRIPTS_HINT: No se encontraron scripts (.ces) en la carpeta Assets.
+ERROR_BUSCAR_SCRIPTS: Error al buscar scripts.
+
+# Engine Terms
+VELOCIDAD: Velocidad
+POTENCIA: Potencia
+MASA: Masa
+GRAVEDAD: Gravedad
+REBOTE: Rebote
+DISTANCIA: Distancia
+ANGULO: Ángulo
+LONGITUD: Longitud
+VOLUMEN: Volumen
+BUCLE: Bucle (Loop)
+REPRODUCIR: Reproducir
+DETENER: Detener
+PAUSAR: Pausar
+
+# Performance
+RENDIMIENTO: Rendimiento
+MAX_FPS: FPS Máximo
+MIN_FPS: FPS Mínimo
+HINT_MAX_FPS: Limita los FPS para ahorrar batería y recursos. Usa 0 para sin límite.
+HINT_MIN_FPS: El motor activará optimizaciones extremas si el rendimiento cae cerca de este valor.
+HINT_MIN_FPS_NOTICE: Nota: Esta cantidad mínima no está garantizada, pero activará una optimización profunda para intentar mantener la fluidez.
+FORZAR_FPS: Forzar FPS (Consumo alto)
+HINT_FORZAR_FPS: Intenta mantener los FPS estables usando un bucle de espera activa. ADVERTENCIA: Esto aumentará el uso de CPU y el consumo de RAM.
+OPTIMIZAR_MEMORIA_AHORA: Optimizar Memoria Ahora
+LIMITE_CPU: Límite de CPU (%)
+
+# Performance
+
+# Combat & Health
+HEALTH: Vida
+MAX_HEALTH: Vida Máxima
+CURRENT_HEALTH: Vida Actual
+DEATH_ANIMATION: Animación de Muerte
+FREEZE_FRAME: Fotograma Congelado
+DESTRUCTION_DELAY: Tiempo Desaparición
+DISABLE_MOVEMENT: Desactivar Movimiento
+ATTACK: Ataque
+ATTACKS: Ataques
+CYCLE_KEY: Tecla de Ciclo
+COOLDOWN: Enfriamiento
+COLLIDER_MATERIA: Materia Colisionador
+DAMAGE: Daño
+PUSH_FORCE: Fuerza de Empuje
+PROGRESS_BAR: Barra de Progreso
+SCROLL_VIEW: Vista de Desplazamiento
+TARGET_MATERIA: Materia Objetivo
+FILL_MATERIA: Materia Relleno
+ORIENTATION: Orientación
+REPARAR: Reparar
+HISTORIAL_SCRIPT: Historial de Versiones
+SELECCIONAR_VERSION_HINT: Selecciona una versión para restaurarla. Se conservan las últimas 10.
+SIN_HISTORIAL: No hay versiones anteriores guardadas para este archivo.
+RESTAURAR: Restaurar
+VERSION_RESTAURADA: Versión restaurada en el editor. Recuerda guardar para aplicar los cambios.
+NADA_QUE_REPARAR: No se encontraron errores obvios que reparar.
+REPARACION_EXITOSA: Código reparado con éxito.
+REPARACION_PARCIAL: Se realizaron correcciones, pero aún quedan errores complejos.
+SUGERENCIA_COMPONENTE: Además, parece que te falta el componente {comp}. ¿Quieres añadirlo?
+ERROR_EJECUCION: Error de Ejecución
+CARGA_ANIM_HINT: Selecciona un asset de animación (.cea) para empezar.
+CREAR_ANIM_RAPIDA: Crear Nueva Animación
+ABRIR_ANIM_RAPIDA: Abrir Existente
+CARGA_ANIM_CTRL_HINT: Carga un asset de controlador (.ceanim) para empezar.
+CREAR_CTRL_RAPIDO: Crear Nuevo Controlador
+ABRIR_CTRL_RAPIDO: Abrir Existente
+ANIMACIONES: Animaciones
+ESTADOS: Estados
+INSPECTOR_ESTADO: Inspector de Estado
+BUSCAR_ANIMACIONES: Buscar animaciones...
+HINT_SELECCIONA_ELEMENTO: Selecciona un elemento para ver sus propiedades.
+
+# Preferences
+RESTABLECER_MOTOR: Restablecer Datos del Motor
+CONFIRM_RESTABLECER: ¿Estás seguro de que quieres borrar todos los datos locales del motor? Esto te pedirá elegir la carpeta de proyectos de nuevo. Tus archivos en el disco NO se verán afectados.
+HINT_RESTABLECER: Borra toda la configuración local (Carpeta de proyectos, claves de IA, etc.). Los archivos de tus proyectos en el disco NO se borrarán.
+OPCIONES_AVANZADAS: Opciones Avanzadas
+APARIENCIA: Apariencia
+IDIOMA: Idioma
+HINT_IDIOMA: Cambia el idioma de la interfaz del motor.
+TEMA_EDITOR: Tema del Editor
+OSCURO_MODERNO: Oscuro Moderno
+CLARO: Claro
+AZUL_MARINO: Azul Marino
+PERSONALIZADO: Personalizado
+AUTOSAVE: Guardado automático de scripts
+RESETEAR_DISENO: Restablecer Diseño de Paneles
+TITULO_PREFERENCIAS: Preferencias del Editor
+GUARDAR_PREFERENCIAS: Guardar Preferencias
+GUARDAR_CAMBIOS: Guardar Cambios
+KEY: Tecla
+ANIM: Anim
+NINGUNA: Ninguna
+GENERATE_COLLIDERS: Generar Colisionadores
+COLLIDERS_GENERATED: Colisionadores generados
+SOURCE_LAYER: Capa de Origen
+USE_ALL_LAYERS: Usar todas las capas
+TEXTURE_TYPE: Tipo de Textura
+SPRITE_MODE: Modo de Sprite
+PIXELS_PER_UNIT: Píxeles por Unidad
+MESH_TYPE: Tipo de Malla
+FILTER_MODE: Modo de Filtro
+WRAP_MODE: Modo de Envoltura
+MAX_SIZE: Tamaño Máximo
+COMPRESSION: Compresión
+COLUMNS: Columnas
+ROWS: Filas
+PACKAGE_TYPE: Tipo de Paquete
+DESCRIPTION: Descripción
+AUDIO_PREVIEW: Previsualización de Audio
+ACTIONS: Acciones
+QUALITY: Calidad
+OPTIMIZATION_QUALITY: Optimización y Calidad
+ROOT_COMPONENTS: Componentes (Objeto Raíz)
+STRUCTURE: Estructura
+EDIT_PREFAB: Editar Prefab
+ANIMATION_PREVIEW: Previsualización de Animación
+SLICING: Slicing
+CREATE_ANIM_ASSET: Crear Asset de Animación (.cea)
+CREAR_ANIMACION_SIMPLE: Crear Animación
+APPLY: Aplicar
+PRESETS: Presets
+WHITE: Blanco
+YELLOW: Amarillo
+GOLD: Oro
+ORANGE: Naranja
+RED: Rojo
+GREEN: Verde
+CYAN: Cian
+BLUE: Azul
+VIOLET: Violeta
+POSE_CAPTURADA: Pose base capturada.
+MODE: Modo
+RESOLUTION: Resolución
+SIMPLICITY: Simplicidad
+SHOW_IN_GAME_GLOBAL: Mostrar en Juego (Global)
+POS_XY: Pos (X/Y)
+SIZE_WH: Tamaño (W/H)
+VISIBLE_IN_GAME: Visible en Juego
+GROSOR: Grosor
+IMAGEN: Imagen
+HUESOS_ASIGNADOS: Huesos Asignados
+OBJETIVO_TARGET: Objetivo (Target)
+LARGO_CADENA: Largo Cadena
+ITERACIONES: Iteraciones
+TOLERANCIA: Tolerancia
+SCENE_LOADER: Cargar Escena
+SCENE_PATH: Ruta de Escena
+TRIGGER_TAG: Tag Activador
+TRIGGER_KEY: Tecla Activadora
+BUTTON_MATERIA: Materia Botón
+SCENE_LOADER_DESC: Carga una escena cuando el jugador colisiona, se presiona una tecla o se clica en el botón asignado.
+PLATFORM_EFFECTOR: Efector de Plataforma 2D
+CLICK_EDGES: Clic en bordes para alternar
+USE_ONE_WAY: Usar Unidireccional
+SURFACE_ARC: Arco de Superficie
+COMPONENTE: Componente
+SIN_FUNCION: Sin Función
+EFECTO_PLATAFORMA: Efecto Plataforma
+CLICK_BORDES: Haz clic en los bordes para bloquear/desbloquear
+TIPO_MOVIMIENTO: Tipo Movimiento
+VAGAR: Vagar
+ESCAPAR: Escapar
+SEGUIR: Seguir
+RANGO_ATAQUE: Rango Ataque
+AL_PERDER_OBJETIVO: Al perder Objetivo
+AL_VER_OBJETIVO: Al ver Objetivo
+CONFIG_MOTOR: Ajustes del Motor
+FUERZA_INCLINACION: Inclinación
+CONTROL_AIRE: Giro Aire
+ESTABILIDAD_AIRE: Auto-Estabilizar
+CENTRADO_SUELO: Centrado Suelo
+AGILIDAD_GIRO: Agilidad Giro
+ARRASTRE_AIRE: Arrastre Aire
+SUSTENTACION: Sustentación
+VELOCIDAD_DESPEGUE: Vel. Despegue
+DERRAPE: Derrape
+FRENO_MOTOR: Freno Motor
+
+# Script Monitor & Scene Monitor
+MONITOR_SCRIPTS: Monitor de Script
+MONITOR_ESCENA: Monitor de Escena
+MONITOR_RED_GLOBAL: Permitir Red (Global)
+MONITOR_BORRAR: Borrar
+MONITOR_TABLA_SCRIPT: Script
+MONITOR_TABLA_ESTADO: Estado
+MONITOR_TABLA_ULT_FUNC: Últ. Función
+MONITOR_TABLA_EJECS: Ejecs.
+MONITOR_TABLA_TIEMPO: Tiempo (Prom/Últ)
+MONITOR_TABLA_RAM: Est. RAM
+MONITOR_TABLA_RED: Acceso Red
+MONITOR_DETALLES_LOGS: Registro de Peticiones (Últimas 10)
+MONITOR_SIN_REGISTROS: Sin actividad de red registrada.
+MONITOR_SIN_SCRIPTS: No se han ejecutado scripts todavía en esta sesión.
+MONITOR_EXITOS: Éxitos
+MONITOR_ERRORES: Errores
+MONITOR_LENTOS: Lentos
+MONITOR_GUARDAR_HISTORIAL: Guardar Historial
+MONITOR_BORRAR_SESION: Borrar Sesión
+MONITOR_ANALISIS_DETALLADO: Análisis Detallado de Funciones
+MONITOR_SUGERENCIAS: Sugerencias de Optimización
+MONITOR_RED_RECIENTES: Peticiones de Red Recientes
+MONITOR_FUNCION: Función
+MONITOR_LLAMADOS: Llamados
+
+[EN]
+# Header
+INICIAR_SESION: Log In
+SILENCIAR_MUSICA: Mute Music
+
+# General
+TUTORIALES: Tutorials
+EMPEZAR: Start Creating
+CONTACTO: Contact
+SOPORTE: Support
+OPINIONES: Opinions
+RECLAMOS: Claims
+INTEGRACIONES_IA: AI Integrations
+API_KEY: API Key
+OBTENER_API_KEY: Get a key at Google AI Studio
+DONAR: Donate with PayPal
+DISCORD: Join Discord
+CREDITOS: Made by Carley Interactive Studio with the help of Google Jules.
+LICENCIA_BTN: Read our license
+CONOCE_JUEGOS: discover games made with our engine
+VERIFICANDO: Verifying...
+CUENTA: Account
+DONAR_BOTON: Donate
+QUE_HACEMOS_DONACIONES: What do we do with your donations?
+NUESTROS_CANALES: Our Channels
+CANALES: Channels
+SOLUCION_RAPIDA: Quick Solutions
+PROYECTO_COLABORATIVO: Collaborative Project
+UNIRSE_COLAB: Join a Collaboration
+UNIRSE_PROYECTO_TITULO: Join a Project
+UNIRSE_PROYECTO_DESC: Enter the code you were sent to start working together in real time.
+CONECTAR: Connect
+CODIGO_INVITACION: Invitation Code:
+UNIRSE: Join
+ACTIVAR_COLABORACION: Start Collaboration
+COMPARTIR_CON_CARLEY: Share with Carley
+COMPARTIR_CON_CARLEY_HINT: Share your codes every time you publish a video game
+COMPARTIR_CON_CARLEY_DESC: We would greatly appreciate you sharing your CES codes because it will help us train our AI model, Carley Creative Code, which was designed from scratch specifically for the engine. The model will consume less than 1 GB of RAM, which will make its use less costly on servers and we won't have to pay as much. It will also allow more users to have access to the AI and is made so that programming in the engine is very easy and simple. We do not share your code with anyone; we will only use it for training purposes so that in the near future you can just tell the engine what you want and it will make it a reality.
+LICENCIA: License
+POLITICA_PRIVACIDAD: Privacy Policy
+COOKIES: Cookies
+ELIMINAR_PROYECTO: Delete Selected Project
+MI_CUENTA: My Account
+CARGANDO_PROYECTO: Loading your project...
+CARGANDO_LIBS: Loading libraries...
+HA_OCURRIDO_ERROR: An error occurred.
+REINTENTAR: Retry
+VOLVER_INICIO: Back to Start
+OPT_LEVEL_NOTICE: Nivel de Optimización: {level} (FPS: {fps})
+CONCEDER_PERMISOS: Grant Permissions
+ERROR_PERMISOS_DETALLES: Creative Engine needs your permission to read and write in your projects folder.
+CARL_WELCOME_MSG: Hello! I'm Carl, your Creative Engine assistant. How can I help you build today?
+CARL_V1_MANTENIMIENTO: Carl V1 is currently undergoing brain maintenance. Please use an external model (Gemini/OpenAI/Claude) by configuring it in Preferences.
+CARL_ERROR_CONEXION: I cannot connect to {provider}. Please make sure you have configured your API Key correctly in the Preferences panel.
+CARL_BUSCANDO_MODELO: The default model did not work. Looking for a compatible one for you...
+CARL_MODELO_ENCONTRADO: I found a compatible model! Using '{model}'. Retrying...
+CARL_ERROR_SIN_MODELO: I could not find a compatible chat model in your API key list.
+CARL_ERROR_LISTAR_MODELOS: I could not list the available models for your API key. Check the console.
+CARL_BUSY_MSG: wait Carl will attend to you shortly don't lose patience
+
+# Welcome Section
+WELCOME_TITLE: Creative Engine
+WELCOME_SUBTITLE: Your game starts here. What you imagine, you build.
+WELCOME_DESCRIPTION: A free 2D game engine to create directly in your browser. Design without limits, create without fear, and publish with pride.
+WELCOME_DESCRIPTION_LONG: Welcome to Creative Engine! We hope you enjoy a new experience in video game creation. This engine is designed especially for you, with your creative workflow in mind.
+WELCOME_DEV_NOTICE: Please note that the engine is in an initial phase and under constant development, so it may present unexpected failures. If you find one, we will be gladly waiting for you to tell us from the report.
+WELCOME_COMMUNITY: You can join our communities and follow us on our channels to stay active. Join our WhatsApp channel! Your support helps the project improve every day. You don't need to be a professional programmer to support the engine; you can also collaborate through donations.
+COPYRIGHT_FOOTER: &copy; 2026 Carley Interactive Studio. All rights reserved.
+PRUEBA_VIDSPRI: Also try VidSpri
+NUESTRO_SITIO_WEB: Our Website
+COMPARTIR_MOTOR: Share Engine
+MAS: More
+TIKTOK: TikTok
+
+# Quotes
+QUOTE_1: Your game starts here. What you imagine, you build.
+QUOTE_2: You don't need experience, just vision. Creative Engine does the rest.
+QUOTE_3: Every scene you create is a window to your world. Open it.
+QUOTE_4: You're not using an engine. You're unleashing your creative potential.
+QUOTE_5: Have an idea? Here it becomes a game.
+QUOTE_6: Design without limits. Create without fear. Publish with pride.
+QUOTE_7: Your story deserves to be played. Creative Engine gives you control.
+QUOTE_8: Don't wait for someone else to do it. Do it yourself, today.
+QUOTE_9: Every pixel you place is a decision. Every decision, a masterpiece.
+QUOTE_10: Creativity isn't taught. It's unlocked.
+
+# Auth State
+HOLA: Hello
+CERRAR_SESION: Log Out
+AUTH_LOGIN: Log In
+AUTH_EMAIL: Email Address
+AUTH_PASSWORD: Password
+AUTH_NO_ACCOUNT: Don't have an account?
+AUTH_FORGOT_PASS: Forgot your password?
+AUTH_SIGNUP: Sign Up
+AUTH_USERNAME: Username
+AUTH_PASS_HINT: Password must be at least 6 characters long.
+AUTH_ALREADY_ACCOUNT: Already have an account?
+AUTH_RESET_PASS: Recover Password
+AUTH_RESET_HINT: Enter your email and we'll send you a link to reset your password.
+AUTH_SEND_RESET: Send Recovery Link
+AUTH_BACK_TO_LOGIN: Back to Login
+NO_TIENES_CUENTA: Don't have an account?
+REGISTRARSE: Sign Up
+OLVIDE_CONTRASENA: Forgot my password
+YA_TIENES_CUENTA: Already have an account?
+RECUPERAR_CONTRASENA: Recover Password
+ENVIAR_ENLACE: Send Link
+VOLVER_LOGIN: Back to Login
+LOGGED_IN_AS: Logged in as:
+REGISTRANDO: Registering...
+ERROR_REGISTRO: Registration Error
+REGISTRO_EXITOSO: Registration Successful!
+REGISTRO_MSG: Check your email to verify your account.
+INICIANDO_SESION_PROGRESO: Logging In...
+ERROR_LOGIN: Login Error
+AUTH_RESET_SENT: If an account exists with this email, a recovery link has been sent.
+ENVIANDO: Sending...
+
+# Scene View Tools
+HERRAMIENTA_MOVER: Move
+HERRAMIENTA_ROTAR: Rotate
+HERRAMIENTA_TERRENO: Terrain
+HERRAMIENTA_ESCALAR: Scale
+HERRAMIENTA_ESCALAR_EJES: Axes
+HERRAMIENTA_UNIVERSAL: All
+HERRAMIENTA_PAN: Hand
+HERRAMIENTA_ESCULPIR: Sculpt
+HERRAMIENTA_PINCEL: Brush
+HERRAMIENTA_CUBO: Bucket
+HERRAMIENTA_MULTI: Multi
+HERRAMIENTA_GOMA: Erase
+
+# Terrain Editor
+TERRENO_ESCULPIR: Sculpt
+TERRENO_PINTAR: Paint
+TERRENO_ARBOLES: Trees
+TERRENO_VEGETACION: Vegetation
+BRUSH_SIZE: Brush Size
+BRUSH_STRENGTH: Strength
+TERRENO_ELEV_BAJAR: Elevate/Lower
+TERRENO_SUAVIZAR: Smooth
+TERRENO_APLANAR: Flatten
+TERRENO_HUECO: Hole (Cave)
+COLOR_PINTURA: Paint Color / 3D Paint
+SOLTAR_PREFAB_ARBOL: Drop Tree Prefab here
+
+# Launcher
+PLANTILLA: Template
+PLANTILLA_VACIA: Empty
+PLANTILLA_PLATAFORMAS: Platformer
+PLANTILLA_TOPDOWN: Top-down
+HINT_PLANTILLA: Start with a pre-configured project and commented code.
+GRAFICOS_AVANZADOS: Advanced Graphics
+OPTIMIZACION_GRAFICA: Optimization & Detail
+RESOURCE_LOADING_MODE: Resource Loading Mode
+PRELOAD_STABLE: Preload (Stable - Loads everything before starting)
+LAZY_LOAD_FAST: Lazy Load (Fast Start - Loads while playing)
+CARGANDO_RECURSOS: Loading resources...
+CARPETA: Folder
+ANADIR_PROYECTO: Add Project
+CREAR_PROYECTO: Create Project
+MIS_PROYECTOS: My Projects
+CREAR_NUEVO_PROYECTO: Create New Project
+TIPO_PROYECTO: Project Type:
+PROYECTO_2D: 2D Project
+PROYECTO_3D: 3D Project
+MUY_PRONTO: Coming Soon
+AVISO_STORAGE: Important Notice: Your projects are saved locally in the folder you choose. Creative Engine does not store any information on external servers.
+NOMBRE_PROYECTO: Project Name:
+HINT_PROYECTO: Use letters, numbers, and hyphens. No spaces or special characters.
+SOY_NUEVO: I am new
+HINT_SOY_NUEVO: Enable this to receive a basic guide when opening the project.
+CREAR: Create
+SIN_PROYECTOS: You don't have any projects yet. Create one to start!
+VER_UBICACION: View location
+UBICACION_DEL_PROYECTO: Project Location
+HINT_RUTA_PROYECTO: The project is located in the configured projects folder, inside the subfolder:
+TIPO_COLAB: Collaboration Type:
+COLAB_LOCAL: Local
+COLAB_ONLINE: Online
+HINT_COLAB_LOCAL: Connect to a partner on your same wifi network.
+HINT_COLAB_ONLINE: Connect through Carley's servers.
+INGRESAR_CODIGO: Enter Code
+NO_DISPONIBLE: Not available
+
+# Libraries
+LIBRERIAS: Libraries
+IMPORTAR: Import
+EXPORTAR: Export
+DOCS_API: API Documentation
+SIN_LIBRERIAS: No libraries found in the project's /lib folder.
+SIN_LIBRERIAS_HINT: Use 'Create' to start a new one or 'Import' to add an existing .celib file.
+CREAR_NUEVA_LIBRERIA: Create New Library
+INFO_BASICA: Basic Information
+NOMBRE_LIBRERIA: Library Name
+AUTOR_ORG: Author / Organization
+VERSION: Version
+FIRMA: Signature (Optional)
+ICONO_LIBRERIA: Library Icon
+HINT_ICONO_LIB: Main icon to be displayed in the store.
+ICONO_AUTOR: Author Icon
+HINT_ICONO_AUTOR: A small logo or profile picture.
+FUNC_PERMISOS: Functionality and Permissions
+DESCRIPCION_USO: Description / How to use
+ARCHIVOS_LIB: Library Files (.js, .ces)
+DROP_ARCHIVOS: Drag and drop files here, or click to select.
+HINT_ARCHIVOS_LIB: Add one or more files. The engine will combine them. If you use the editor API (panels, etc.), the main script must be a .js.
+PERMISO_WINDOWS: Allow creating windows and panels in the editor.
+PERMISO_RUNTIME: Allow access to its functions from scripts (.ces).
+PERMISO_TOOL: It is an internal tool for the engine (e.g., translations).
+PERMISO_COMPONENTS: Allow registering custom components.
+PERMISO_ASSETS: Allow creating and modifying assets.
+CREAR_LIBRERIA: Create Library
+DETALLES_LIBRERIA: Library Details
+INFORMACION: Information
+ESTADO_PERMISOS: Status and Permissions
+ESTADO: Status
+ACTIVO: Active
+INACTIVO: Inactive
+ACTIVAR: Activate
+GESTIONAR: Manage
+ACTIVIDAD: Activity
+DESACTIVAR: Deactivate
+ACTIVADA: activated
+DESACTIVADA: deactivated
+SIN_DESCRIPCION: No description.
+SIN_PERMISOS: No special permissions.
+IMPORTAR_LIBRERIA: Import Library
+CARL_CHAT: Chat
+CARL_ACTIVIDAD: Activity
+NO_ACTIVIDAD_RECIENTE: No recent activity.
+MODO_EJECUCION: Execution Mode
+PLAN_ACTUAL: Current Plan
+APROBAR_CONTINUAR: Approve and Continue
+CON_PERMISO: With Permission
+MODO_VISUAL: Visual (Step by step)
+MODO_AUTOMATICO: Automatic
+
+# General
+FOROS: Forums
+DONACIONES: Donations
+LEGAL: Legal
+MIS_JUEGOS: My Games
+PUBLICAR_JUEGO: Publish Game
+ENLACE_GITHUB: GitHub Link
+SUBIR_FOTO_JUEGO: Upload photo for Creative Games
+DESCRIPCION_JUEGO: Game Description
+SUBIR: Upload
+VERIFICAR_PROYECTO: Verify Project
+BORRAR_JUEGO: Delete Game
+JUGADAS: Plays
+COMENTARIOS: Comments
+ME_GUSTAS: Likes
+
+# Asset Browser
+CREAR_CARPETA: Create Folder
+NOMBRE_CARPETA_PROMPT: Enter the name for the new folder:
+CREAR_CONTROLADOR_ANIMACION: Create Animation Controller
+NOMBRE_CONTROLADOR_PROMPT: Enter the name for the new controller (.ceanim):
+CREAR_PREFAB: Create Prefab
+NOMBRE_PREFAB_PROMPT: Enter the name for the new prefab (.ceprefab):
+CREAR_SCRIPT_CHC: Create H-Code Script
+NOMBRE_SCRIPT_PROMPT: Enter the name for the new script:
+CREAR_SCRIPT: Create Script
+CREAR_ESCENA: Create Scene
+NOMBRE_ESCENA_PROMPT: Enter the name for the new scene (.ceScene):
+CREAR_ANIMACION: Create Animation Asset
+NOMBRE_ANIMACION_PROMPT: Enter the name for the new asset (.cea):
+CREAR_README: Create Readme File
+NOMBRE_ARCHIVO_PROMPT: Enter the name for the file:
+CREAR_PALETA_TILES: Create Tile Palette
+NOMBRE_PALETA_PROMPT: Enter the name for the new palette (.cepalette):
+CONFIRMAR_BORRADO: Confirm Delete
+BORRAR_ASSET_CONFIRM: Are you sure you want to delete
+ACCION_IRREVERSIBLE: This action cannot be undone.
+RENOMBRAR_ASSET: Rename Asset
+INTRODUCE_NUEVO_NOMBRE: Enter the new name for
+CARPETA_VACIA: Folder is empty
+ARCHIVO_LEAME: Readme File (.md)
+ASSET_ANIMACION: Animation Asset (.cea)
+IMAGE: Image
+TERRENO: Terrain
+TERRENO_3D: 3D Terrain
+CANVAS: Canvas
+PANEL: Panel
+COMBATANT: Combatant
+HEALTH_BAR: Health Bar
+
+# Editor Menubar
+ARCHIVO: File
+EDITAR: Edit
+VENTANA: Window
+AYUDA: Help
+CURSO_SCRIPTING: Scripting Course
+REPORTAR_FALLOS: Report Bugs/Errors/Failures
+DOCUMENTACION: Documentation
+NUEVA_ESCENA: New Scene
+ABRIR_ESCENA: Open Scene...
+GUARDAR_ESCENA: Save Scene
+IMPORTAR_PROYECTO: Import Project...
+EXPORTAR_PROYECTO: Export Project...
+IMPORTAR_ASSET: Import Asset...
+IMPORTAR_MODELO_3D: Import 3D Model...
+EXPORTAR_ASSET_BTN: Export Asset...
+BUILD: Build
+CONFIG_PROYECTO: Project Settings
+PREFERENCIAS: Preferences
+
+# Editor Windows
+ESCENA: Scene
+JERARQUIA: Hierarchy
+INSPECTOR: Inspector
+NAVEGADOR: Browser
+CONSOLA: Console
+DEPURADOR: Debugger
+EDITOR_ANIMACION: Animation Editor
+CONTROLADOR_ANIMACION: Animation Controller
+PALETA_TILES: Tiles
+EDITOR_SPRITES: Sprites
+CONTROL_AMBIENTE: Environment
+EDITOR_PARTICULAS: Particle Editor
+SCRIPTING_VISUAL: Visual Scripting
+VARIABLES: Variables
+LOGICA: Logic
+FUNCIONES: Functions
+CREAR_VARIABLE: Create Variable
+ASIGNAR_VARIABLE: Assign Variable
+SUMAR_VARIABLE: Add to Var
+ESTABLECER_GLOBAL: Set Global
+SI_CONDICION: If (Condition)
+NUEVA_FUNCION: New Function
+LLAMAR_FUNCION: Call Function
+VARIABLES_ACTIVAS: Active Variables
+PS_SELECT_HINT: Select a Matter with a Particle System to start.
+FUEGO: Fire
+HUMO: Smoke
+EXPLOSION: Explosion
+MAGIA: Magic
+EMISION: Emission
+MAX_PARTICULAS: Max Particles
+TASA_EMISION: Emission Rate
+FISICA_TIEMPO: Physics & Time
+VIDA_SEG: Lifetime (sec)
+DISPERSION: Spread (º)
+COLOR_INICIO: Start Color
+COLOR_FIN: End Color
+TAMANO_INICIO: Start Size
+TAMANO_FIN: End Size
+DESVANECER_ALPHA: Fade Alpha
+SISTEMA_VERIFICACION: Verification
+ACTUALIZACIONES: Updates
+REINICIAR_VENTANAS: Reset Windows
+ACTIVIDAD_COLABORATIVA: Collaborative Activity
+TIENDA_ASSETS: Store
+VID_SPRI: Vid Spri
+VISTA_ESCENA: Scene
+VISTA_JUEGO: Game
+VISTA_CODIGO: Code
+VISTA_TERMINAL: Terminal
+
+# Hierarchy Context
+CIRCLE_COLLIDER_2D: Circle Collider 2D
+CREAR_MATERIA: Create Matter
+MATERIA_VACIA: Empty
+MATERIA_2D: 2D
+MATERIA_3D: 3D
+CUBE: Cube
+SPHERE: Sphere
+PLANE: Plane
+SPRITE: Sprite
+TILEMAP: Tilemap
+TERRENO_2D: 2D Terrain
+PARALLAX: Parallax
+RECTANGULO: Rectangle
+CIRCULO: Circle
+TRIANGULO: Triangle
+TRIANGLE: 3D Triangle
+CAPSULA: Capsule
+UI: UI
+BOTON: Button
+TEXTO: Text
+LUZ: Light
+LUZ_2D: 2D Light
+LUZ_3D: 3D Light
+LUZ_PUNTO: Point Light
+LUZ_FOCAL: Spot Light
+DIRECTIONALLIGHT3D: Directional Light
+POINTLIGHT3D: Point Light 3D
+SPOTLIGHT3D: Spot Light 3D
+LUZ_FORMA_LIBRE: Freeform Light
+LUZ_SPRITE: Sprite Light
+CAMARA: Camera
+AUDIO: Audio
+VIDEO: Video
+WATER: Water
+LINE_COLLIDER: Line Collider
+BONE: Bone
+SKELETON: Skeleton (Skinning)
+IK_MANAGER: IK Manager
+IMPORTAR_ESQUELETO_SPINE: Import Skeleton (Spine JSON)
+ERROR_IMPORTAR_SIN_OBJETO: Select an object in the hierarchy to import the skeleton as a child.
+ESQUELETO_IMPORTADO: Skeleton imported successfully.
+WEIGHT_PAINTER: Weight Painter
+ESCENA_VACIA: The scene is empty.<br>Right-click to create an object.
+RENOMBRAR: Rename
+DUPLICAR: Duplicate
+ELIMINAR: Delete
+
+# Inspector
+ADD_LEY: Add Law
+LEY: Law
+LEYES: Laws
+TRANSFORM: Transform
+POSICION: Position
+ROTACION: Rotation
+ESCALA: Scale
+MOVEMENT_BASIC: Movement (Basic)
+MOVEMENT_LATERAL: Lateral Movement (2D)
+MOVEMENT_TOPDOWN: Top-Down Movement (2D)
+TEXTURE_RENDER: Texture Renderer
+VERTICAL_LAYOUT: Vertical Layout
+HORIZONTAL_LAYOUT: Horizontal Layout
+GRID_LAYOUT: Grid Layout
+SIZE_FITTER: Size Fitter
+VIDEO_PLAYER: Video Player
+HEALTH_COMPONENT: Health Component
+ATTACK_COMPONENT: Attack Component
+SCROLL_RECT: Scroll Rect
+UI_MASK: UI Mask
+UI_COLLIDER: UI Collider
+PATROL_COMPONENT: Patrol
+POLYGON_COLLIDER_2D: Polygon Collider 2D
+UI_TRANSFORM: UI Transform
+UI_IMAGE: UI Image
+UI_TEXT: UI Text
+SPRITE_RENDERER: Sprite Renderer
+AUDIO_SOURCE: Audio Source
+SUSPENSION: Suspensión
+VEHICLE_TOPDOWN: Vehicle Top-Down
+PLANE_CONTROLLER: Plane Controller
+HELICOPTER_CONTROLLER: Helicopter Controller
+SKINNED_MESH_RENDERER_3D: Skinned Mesh Renderer 3D
+ANIMATOR_3D: Animator 3D
+SKELETON_RENDERER: Skeleton Renderer
+IK_MANAGER_2D: IK Manager 2D
+BASIC_AI: Basic AI
+RIGIDBODY_2D: Rigidbody 2D
+BOX_COLLIDER_2D: Box Collider 2D
+BODY_TYPE: Body Type
+DYNAMIC: Dynamic
+STATIC: Static
+KINEMATIC: Kinematic
+RIGIDBODY_COLLIDER_WARNING: Rigidbody needs a Collider to interact physically.
+PROJECTILE_LAUNCHER_COMPONENT: Projectile Launcher
+AUTO_DESTROY_COMPONENT: Auto Destroy
+CAMERA_FOLLOW_COMPONENT: Camera Follow
+FIRE_SOUND: Fire Sound
+PROP_FLIP_X: Flip Horizontal
+PROP_FLIP_Y: Flip Vertical
+NADA_SELECCIONADO: Nothing selected
+ACTIVAR_DESACTIVAR_MATERIA: Enable/Disable Matter
+TAG: Tag
+LAYER: Render Layer
+ADD_TAG_ELLIPSIS: Add Tag...
+EDIT_LAYERS_ELLIPSIS: Edit Render Layers...
+SELECCIONAR_TAGS: Select Tags
+MULTIPLE: Multiple
+TAGS_SELECTOR_INSTRUCTION: Select the tags you want to assign to this object:
+SELECCIONAR_LAYERS: Select Render Layers
+LAYERS_SELECTOR_INSTRUCTION: Select the render layers (drawing layers) you want to assign to this object:
+AÑADIR_LEY_TITULO: Add Law (Component)
+CAT_AUDIO: Audio/Video
+CAT_RENDERIZADO: Rendering
+CAT_MAPA: Map
+CAT_ILUMINACION: Lighting
+CAT_UTILIDADES: Utilities
+CAT_ANIMACION: Animation
+CAT_CAMARA: Camera
+CAT_FISICAS: Physics
+CAT_OPTIMIZACION: Optimization
+CAT_UI: UI
+CAT_VEHICULOS_LATERAL: Side-View Vehicles (2D)
+CAT_VEHICULOS_CENITAL: Top-Down Vehicles
+CAT_DISPAROS_LATERAL: Side-View Shooter
+CAT_DISPAROS_CENITAL: Top-Down Shooter
+CAT_AVENTURA_ROL: Adventure & RPG
+CAT_FPS_LATERAL: Side-View FPS
+CAT_FPS_CENITAL: Top-Down FPS
+CAT_BASICO_3D: Basic 3D
+CAT_FISICA_3D: Physics 3D
+CAT_AUDIO_3D: Audio 3D
+CAT_CAMARA_3D: Camera 3D
+CAT_OTROS_3D: Other 3D
+CAT_SCRIPTING: Scripting
+COMPONENTES_PERSONALIZADOS: Custom Components
+SCRIPTS: Scripts
+ESCANEO_PROGRESO: Script scan already in progress...
+BUSCANDO_SCRIPTS: Finding scripts...
+SIN_SCRIPTS_HINT: No scripts (.ces) found in the Assets folder.
+ERROR_BUSCAR_SCRIPTS: Error finding scripts.
+
+# Engine Terms
+VELOCIDAD: Speed
+POTENCIA: Power
+MASA: Mass
+GRAVEDAD: Gravity
+REBOTE: Bounciness
+DISTANCIA: Distance
+ANGULO: Angle
+LONGITUD: Length
+VOLUMEN: Volume
+BUCLE: Loop
+REPRODUCIR: Play
+DETENER: Stop
+PAUSAR: Pause
+
+# Performance
+RENDIMIENTO: Performance
+MAX_FPS: Max FPS
+MIN_FPS: Min FPS
+HINT_MAX_FPS: Limits FPS to save battery and resources. Use 0 for no limit.
+HINT_MIN_FPS: The engine will trigger extreme optimizations if performance drops near this value.
+HINT_MIN_FPS_NOTICE: Note: This minimum amount is not guaranteed, but it will trigger deep optimization to try to maintain fluidity.
+FORZAR_FPS: Force FPS (High consumption)
+HINT_FORZAR_FPS: Tries to maintain stable FPS using a busy-wait loop. WARNING: This will increase CPU and RAM usage.
+OPTIMIZAR_MEMORIA_AHORA: Optimize Memory Now
+LIMITE_CPU: CPU Limit (%)
+
+# Combat & Health
+HEALTH: Health
+MAX_HEALTH: Max Health
+CURRENT_HEALTH: Current Health
+DEATH_ANIMATION: Death Animation
+FREEZE_FRAME: Freeze Frame
+DESTRUCTION_DELAY: Destruction Delay
+DISABLE_MOVEMENT: Disable Movement
+ATTACK: Attack
+ATTACKS: Attacks
+CYCLE_KEY: Cycle Key
+COOLDOWN: Cooldown
+COLLIDER_MATERIA: Collider Matter
+DAMAGE: Damage
+PUSH_FORCE: Push Force
+PROGRESS_BAR: Progress Bar
+SCROLL_VIEW: Scroll View
+TARGET_MATERIA: Target Matter
+FILL_MATERIA: Fill Matter
+ORIENTATION: Orientation
+REPARAR: Repair
+HISTORIAL_SCRIPT: Version History
+SELECCIONAR_VERSION_HINT: Select a version to restore it. The last 10 are kept.
+SIN_HISTORIAL: No previous versions saved for this file.
+RESTAURAR: Restore
+VERSION_RESTAURADA: Version restored in the editor. Remember to save to apply changes.
+NADA_QUE_REPARAR: No obvious errors found to repair.
+REPARACION_EXITOSA: Code repaired successfully.
+REPARACION_PARCIAL: Corrections were made, but complex errors remain.
+SUGERENCIA_COMPONENTE: Also, it seems you are missing the {comp} component. Do you want to add it?
+ERROR_EJECUCION: Execution Error
+CARGA_ANIM_HINT: Select an animation asset (.cea) to start.
+CREAR_ANIM_RAPIDA: Create New Animation
+ABRIR_ANIM_RAPIDA: Open Existing
+CARGA_ANIM_CTRL_HINT: Load a controller asset (.ceanim) to start.
+CREAR_CTRL_RAPIDO: Create New Controller
+ABRIR_CTRL_RAPIDO: Open Existing
+ANIMACIONES: Animations
+ESTADOS: States
+INSPECTOR_ESTADO: State Inspector
+BUSCAR_ANIMACIONES: Search animations...
+HINT_SELECCIONA_ELEMENTO: Select an element to view its properties.
+
+# Preferences
+RESTABLECER_MOTOR: Restablecer Datos del Motor
+CONFIRM_RESTABLECER: ¿Estás seguro de que quieres borrar todos los datos locales del motor? Esto te pedirá elegir la carpeta de proyectos de nuevo. Tus archivos en el disco NO se verán afectados.
+HINT_RESTABLECER: Borra toda la configuración local (Carpeta de proyectos, claves de IA, etc.). Los archivos de tus proyectos en el disco NO se borrarán.
+OPCIONES_AVANZADAS: Opciones Avanzadas
+APARIENCIA: Appearance
+IDIOMA: Language
+HINT_IDIOMA: Change the engine interface language.
+TEMA_EDITOR: Editor Theme
+OSCURO_MODERNO: Modern Dark
+CLARO: Light
+AZUL_MARINO: Navy Blue
+PERSONALIZADO: Custom
+AUTOSAVE: Auto-save scripts
+RESETEAR_DISENO: Reset Panel Layout
+TITULO_PREFERENCIAS: Editor Preferences
+GUARDAR_PREFERENCIAS: Save Preferences
+GUARDAR_CAMBIOS: Save Changes
+KEY: Key
+ANIM: Anim
+NINGUNA: None
+GENERATE_COLLIDERS: Generate Colliders
+COLLIDERS_GENERATED: Colliders generated
+SOURCE_LAYER: Source Layer
+USE_ALL_LAYERS: Use all layers
+TEXTURE_TYPE: Texture Type
+SPRITE_MODE: Sprite Mode
+PIXELS_PER_UNIT: Pixels Per Unit
+MESH_TYPE: Mesh Type
+FILTER_MODE: Filter Mode
+WRAP_MODE: Wrap Mode
+MAX_SIZE: Max Size
+COMPRESSION: Compression
+COLUMNS: Columns
+ROWS: Rows
+PACKAGE_TYPE: Package Type
+DESCRIPTION: Description
+AUDIO_PREVIEW: Audio Preview
+ACTIONS: Actions
+QUALITY: Quality
+OPTIMIZATION_QUALITY: Optimization & Quality
+ROOT_COMPONENTS: Root Components
+STRUCTURE: Structure
+EDIT_PREFAB: Edit Prefab
+ANIMATION_PREVIEW: Animation Preview
+SLICING: Slicing
+CREATE_ANIM_ASSET: Create Animation Asset (.cea)
+CREAR_ANIMACION_SIMPLE: Create Animation
+APPLY: Apply
+PRESETS: Presets
+WHITE: White
+YELLOW: Yellow
+GOLD: Gold
+ORANGE: Orange
+RED: Red
+GREEN: Green
+CYAN: Cyan
+BLUE: Blue
+VIOLET: Violet
+POSE_CAPTURADA: Base pose captured.
+MODE: Mode
+RESOLUTION: Resolution
+SIMPLICITY: Simplicity
+SHOW_IN_GAME_GLOBAL: Show in Game (Global)
+POS_XY: Pos (X/Y)
+SIZE_WH: Size (W/H)
+VISIBLE_IN_GAME: Visible in Game
+GROSOR: Thickness
+IMAGEN: Image
+HUESOS_ASIGNADOS: Assigned Bones
+OBJETIVO_TARGET: Target
+LARGO_CADENA: Chain Length
+ITERACIONES: Iterations
+TOLERANCIA: Tolerance
+SCENE_LOADER: Scene Loader
+SCENE_PATH: Scene Path
+TRIGGER_TAG: Trigger Tag
+TRIGGER_KEY: Trigger Key
+BUTTON_MATERIA: Button Matter
+SCENE_LOADER_DESC: Loads a scene when the player collides, a key is pressed, or the assigned button is clicked.
+COMPONENTE: Component
+SIN_FUNCION: No Function
+EFECTO_PLATAFORMA: Platform Effect
+CLICK_BORDES: Click edges to block/unblock
+TIPO_MOVIMIENTO: Movement Type
+VAGAR: Wander
+ESCAPAR: Escape
+SEGUIR: Follow
+RANGO_ATAQUE: Attack Range
+AL_PERDER_OBJETIVO: On Target Lost
+AL_VER_OBJETIVO: On Target Seen
+CONFIG_MOTOR: Engine Settings
+FUERZA_INCLINACION: Pitch Strength
+CONTROL_AIRE: Air Turn
+ESTABILIDAD_AIRE: Auto-Stabilize
+CENTRADO_SUELO: Ground Centering
+AGILIDAD_GIRO: Turn Agility
+ARRASTRE_AIRE: Air Drag
+SUSTENTACION: Lift Force
+VELOCIDAD_DESPEGUE: Takeoff Speed
+DERRAPE: Drift
+FRENO_MOTOR: Motor Brake
+
+# Script Monitor & Scene Monitor
+MONITOR_SCRIPTS: Script Monitor
+MONITOR_ESCENA: Scene Monitor
+MONITOR_RED_GLOBAL: Allow Network (Global)
+MONITOR_BORRAR: Clear
+MONITOR_TABLA_SCRIPT: Script
+MONITOR_TABLA_ESTADO: Status
+MONITOR_TABLA_ULT_FUNC: Last Func
+MONITOR_TABLA_EJECS: Execs
+MONITOR_TABLA_TIEMPO: Time (Avg/Last)
+MONITOR_TABLA_RAM: Est. RAM
+MONITOR_TABLA_RED: Net Access
+MONITOR_DETALLES_LOGS: Request Logs (Last 10)
+MONITOR_SIN_REGISTROS: No network activity recorded.
+MONITOR_SIN_SCRIPTS: No scripts have executed yet in this session.
+MONITOR_EXITOS: Successes
+MONITOR_ERRORES: Errors
+MONITOR_LENTOS: Slow Calls
+MONITOR_GUARDAR_HISTORIAL: Save History
+MONITOR_BORRAR_SESION: Clear Session
+MONITOR_ANALISIS_DETALLADO: Detailed Function Analysis
+MONITOR_SUGERENCIAS: Optimization Suggestions
+MONITOR_RED_RECIENTES: Recent Network Requests
+MONITOR_FUNCION: Function
+MONITOR_LLAMADOS: Calls
+
+[PT]
+# Header
+INICIAR_SESION: Iniciar Sessão
+SILENCIAR_MUSICA: Silenciar Música
+
+# General
+TUTORIALES: Tutoriais
+EMPEZAR: Começar a Criar
+CONTACTO: Contato e Suporte
+SOPORTE: Suporte
+OPT_LEVEL_NOTICE: Nível de Otimização: {level} (FPS: {fps})
+OPINIONES: Opiniões
+RECLAMOS: Reclamações
+DONAR: Doar com PayPal
+DISCORD: Juntar-se ao Discord
+CREDITOS: Feito por Carley Interactive Studio com a ajuda de Google Jules.
+LICENCIA_BTN: Leia nossa licença
+CONOCE_JUEGOS: conheça jogos feitos com nosso motor
+VERIFICANDO: Verificando...
+CUENTA: Conta
+DONAR_BOTON: Doar
+QUE_HACEMOS_DONACIONES: O que fazemos com as suas doações?
+NUESTROS_CANALES: Nossos Canais
+CANALES: Canais
+SOLUCION_RAPIDA: Soluções Rápidas
+PROYECTO_COLABORATIVO: Projeto Colaborativo
+UNIRSE_COLAB: Participar de uma Colaboração
+UNIRSE_PROYECTO_TITULO: Participar de um Projeto
+UNIRSE_PROYECTO_DESC: Digite o código que lhe foi enviado para começarem a trabalhar juntos em tempo real.
+CONECTAR: Conectar
+UNIRSE: Juntar-se
+COMPARTIR_CON_CARLEY: Compartilhar com Carley
+COMPARTIR_CON_CARLEY_HINT: Compartilhe seus códigos toda vez que publicar um videogame
+COMPARTIR_CON_CARLEY_DESC: Agradeceríamos muito se você compartilhasse seus códigos CES, pois isso nos ajudará a treinar nosso modelo de IA Carley Creative Code, que foi projetado do zero especialmente para o motor. O modelo consumirá menos de 1 GB de RAM, o que tornará seu uso menos dispendioso nos servidores e não teremos que pagar muito. Também permitirá que mais usuários tenham acesso à IA e é feito de forma que programar no motor seja muito fácil e simples. Não compartilhamos seu código com ninguém; só o usaremos para fins de treinamento para que, em um futuro próximo, você apenas diga ao motor o que deseja e ele o torne realidade.
+LICENCIA: Licença
+POLITICA_PRIVACIDAD: Política de Privacidade
+COOKIES: Cookies
+FOROS: Fóruns
+DONACIONES: Doações
+LEGAL: Legal
+MIS_JUEGOS: Meus Jogos
+PUBLICAR_JUEGO: Publicar Jogo
+ENLACE_GITHUB: Link do GitHub
+SUBIR_FOTO_JUEGO: Carregar foto para Creative Games
+DESCRIPCION_JUEGO: Descrição do Jogo
+SUBIR: Carregar
+VERIFICAR_PROYECTO: Verificar Projeto
+BORRAR_JUEGO: Excluir Jogo
+JUGADAS: Jogadas
+COMENTARIOS: Comentários
+ME_GUSTAS: Curtidas
+PRUEBA_VIDSPRI: Também teste VidSpri
+NUESTRO_SITIO_WEB: Nosso site
+COMPARTIR_MOTOR: Compartilhar Motor
+MAS: Mais
+CARGANDO_PROYECTO: Carregando seu projeto...
+CARGANDO_LIBS: Carregando bibliotecas...
+HA_OCURRIDO_ERROR: Ocorreu um erro.
+REINTENTAR: Repetir
+VOLVER_INICIO: Voltar ao Início
+CONCEDER_PERMISOS: Conceder Permissões
+ERROR_PERMISOS_DETALLES: O Creative Engine precisa da sua permissão para ler e escrever na pasta dos seus projetos.
+CARL_WELCOME_MSG: Olá! Eu sou o Carl, o seu assistente do Creative Engine. Como posso ajudar você a construir hoje?
+CARL_V1_MANTENIMIENTO: Carl V1 está atualmente em manutenção cerebral. Por favor, use um modelo externo (Gemini/OpenAI/Claude) configurando-o em Preferências.
+CARL_ERROR_CONEXION: Não consigo me conectar ao {provider}. Certifique-se de ter configurado sua chave de API corretamente no painel de Preferências.
+CARL_BUSCANDO_MODELO: O modelo padrão não funcionou. Procurando um compatível para você...
+CARL_MODELO_ENCONTRADO: Encontrei um modelo compatível! Usando '{model}'. Tentando novamente...
+CARL_ERROR_SIN_MODELO: Não foi possível encontrar um modelo de chat compatível na sua lista de chaves de API.
+CARL_ERROR_LISTAR_MODELOS: Não foi possível listar los modelos disponíveis para sua chave de API. Verifique o console.
+CARL_BUSY_MSG: espere que o Carl irá atendê-lo em breve não perca a paciência
+
+# Welcome Section
+WELCOME_TITLE: Creative Engine
+WELCOME_SUBTITLE: Seu jogo começa aqui. O que você imagina, você constrói.
+WELCOME_DESCRIPTION: Um motor de jogos 2D gratuito para criar diretamente no seu navegador. Projete sem limites, crie sem medo e publique com orgulho.
+COPYRIGHT_FOOTER: &copy; 2026 Carley Interactive Studio. Todos os direitos reservados.
+TIKTOK: TikTok
+
+# Quotes
+QUOTE_1: Seu jogo começa aqui. O que você imagina, você constrói.
+QUOTE_2: Você não precisa de experiência, apenas visão. Creative Engine faz o resto.
+QUOTE_3: Cada cena que você cria é uma janela para o seu mundo. Abra-a.
+QUOTE_4: Você não está usando um motor. Você está liberando seu potencial criativo.
+QUOTE_5: Tem uma ideia? Aqui ela se torna um jogo.
+QUOTE_6: Projete sem limites. Crie sem medo. Publique com orgulho.
+QUOTE_7: Sua história merece ser jogada. Creative Engine lhe dá o controle.
+QUOTE_8: Não espere que outra pessoa faça. Faça você mesmo, hoje.
+QUOTE_9: Cada pixel que você coloca é una decisão. Cada decisão, uma obra-prima.
+QUOTE_10: A criatividade não é ensinada. É desbloqueada.
+
+# Auth State
+HOLA: Olá
+CERRAR_SESION: Sair
+REGISTRANDO: Registrando...
+ERROR_REGISTRO: Erro de Registro
+REGISTRO_EXITOSO: Registro Bem-sucedido!
+REGISTRO_MSG: Verifique seu e-mail para confirmar sua conta.
+INICIANDO_SESION_PROGRESO: Iniciando Sessão...
+ERROR_LOGIN: Erro de Login
+AUTH_RESET_SENT: Se existir uma conta com este e-mail, um link de recuperação foi enviado.
+ENVIANDO: Enviando...
+
+# Launcher
+PLANTILLA: Modelo
+PLANTILLA_VACIA: Vazio
+PLANTILLA_PLATAFORMAS: Plataformas
+PLANTILLA_TOPDOWN: Top-down
+HINT_PLANTILLA: Comece com um projeto pré-configurado e código comentado.
+GRAFICOS_AVANZADOS: Gráficos Avançados
+OPTIMIZACION_GRAFICA: Otimização e Detalhe
+RESOURCE_LOADING_MODE: Modo de Carregamento de Recursos
+PRELOAD_STABLE: Pré-carregar (Estável - Carrega tudo antes de iniciar)
+LAZY_LOAD_FAST: Carregamento Lento (Início Rápido - Carrega enquanto joga)
+CARGANDO_RECURSOS: Carregando recursos...
+CARPETA: Pasta
+MIS_PROYECTOS: Meus Projetos
+CREAR_NUEVO_PROYECTO: Criar Novo Projeto
+TIPO_PROYECTO: Tipo de Projeto:
+PROYECTO_2D: Projeto 2D
+PROYECTO_3D: Projeto 3D
+MUY_PRONTO: Em breve
+AVISO_STORAGE: Aviso Importante: Seus projetos são salvos localmente na pasta que você escolher. Creative Engine não armazena nenhuma informação em servidores externos.
+NOMBRE_PROYECTO: Nome do Projeto:
+HINT_PROYECTO: Use letras, números e hifens. Sem espaços ou caracteres especiais.
+SOY_NUEVO: Sou novo
+HINT_SOY_NUEVO: Ative isso para receber um guia básico ao abrir o projeto.
+CREAR: Criar
+SIN_PROYECTOS: Você ainda não tem projetos. Crie um para começar!
+TIPO_COLAB: Tipo de Colaboração:
+COLAB_LOCAL: Local
+COLAB_ONLINE: Online
+HINT_COLAB_LOCAL: Conecte-se a um parceiro na sua mesma rede wifi.
+HINT_COLAB_ONLINE: Conecte-se através dos servidores da Carley.
+INGRESAR_CODIGO: Inserir Código
+NO_DISPONIBLE: Não disponível
+
+# Libraries
+LIBRERIAS: Bibliotecas
+IMPORTAR: Importar
+EXPORTAR: Exportar
+DOCS_API: Documentação da API
+SIN_LIBRERIAS: Nenhuma biblioteca encontrada na pasta /lib do projeto.
+SIN_LIBRERIAS_HINT: Use 'Criar' para começar uma nova ou 'Importar' para adicionar um arquivo .celib existente.
+CREAR_NUEVA_LIBRERIA: Criar Nova Biblioteca
+INFO_BASICA: Informações Básicas
+NOMBRE_LIBRERIA: Nome da Biblioteca
+AUTOR_ORG: Autor / Organização
+VERSION: Versão
+FIRMA: Assinatura (Opcional)
+ICONO_LIBRERIA: Ícone da Biblioteca
+HINT_ICONO_LIB: Ícone principal que será exibido na loja.
+ICONO_AUTOR: Ícone do Autor
+HINT_ICONO_AUTOR: Um logo pequeno ou foto de perfil.
+FUNC_PERMISOS: Funcionalidade e Permisos
+DESCRIPCION_USO: Descrição / Como usar
+ARCHIVOS_LIB: Arquivos da Biblioteca (.js, .ces)
+DROP_ARCHIVOS: Arraste e solte os arquivos aqui, ou clique para selecionar.
+HINT_ARCHIVOS_LIB: Adicione um ou mais arquivos. O motor os combinará. Se você usar a API do editor (painéis, etc.), o script principal deve ser um .js.
+PERMISO_WINDOWS: Permitir criar janelas e painéis no editor.
+PERMISO_RUNTIME: Permitir acesso às suas funções a partir de scripts (.ces).
+PERMISO_TOOL: É uma ferramenta interna para o motor (ex: traduções).
+PERMISO_COMPONENTS: Permitir registrar componentes personalizados.
+PERMISO_ASSETS: Permitir criar e modificar assets.
+CREAR_LIBRERIA: Criar Biblioteca
+DETALLES_LIBRERIA: Detalhes da Biblioteca
+INFORMACION: Informação
+ESTADO_PERMISOS: Estado e Permissões
+ESTADO: Estado
+ACTIVO: Ativo
+INACTIVO: Inativo
+ACTIVAR: Ativar
+GESTIONAR: Gerenciar
+ACTIVIDAD: Atividade
+DESACTIVAR: Desativar
+ACTIVADA: activada
+DESACTIVADA: desactivada
+SIN_DESCRIPCION: Sem descrição.
+SIN_PERMISOS: Sem permissões especiais.
+IMPORTAR_LIBRERIA: Importar Biblioteca
+NO_ACTIVIDAD_RECIENTE: Nenhuma atividade recente.
+
+# Asset Browser
+CREAR_CARPETA: Criar Pasta
+NOMBRE_CARPETA_PROMPT: Digite o nome da nova pasta:
+CREAR_CONTROLADOR_ANIMACION: Criar Controlador de Animação
+NOMBRE_CONTROLADOR_PROMPT: Digite o nome do novo controlador (.ceanim):
+CREAR_PREFAB: Criar Prefab
+NOMBRE_PREFAB_PROMPT: Digite o nome do novo prefab (.ceprefab):
+CREAR_SCRIPT_CHC: Criar Script H-Code
+NOMBRE_SCRIPT_PROMPT: Digite o nome do novo script:
+CREAR_SCRIPT: Criar Script
+CREAR_ESCENA: Criar Cena
+NOMBRE_ESCENA_PROMPT: Digite o nome da nova cena (.ceScene):
+CREAR_ANIMACION: Criar Asset de Animação
+NOMBRE_ANIMACION_PROMPT: Digite o nome do novo asset (.cea):
+CREAR_README: Criar Arquivo Leia-me
+NOMBRE_ARCHIVO_PROMPT: Digite o nome do arquivo:
+CREAR_PALETA_TILES: Criar Paleta de Tiles
+NOMBRE_PALETA_PROMPT: Digite o nome da nova paleta (.cepalette):
+CONFIRMAR_BORRADO: Confirmar Exclusão
+BORRAR_ASSET_CONFIRM: Tem certeza de que deseja excluir
+ACCION_IRREVERSIBLE: Esta ação não pode ser desfeita.
+RENOMBRAR_ASSET: Renombrar Asset
+INTRODUCE_NUEVO_NOMBRE: Digite o novo nome para
+CARPETA_VACIA: A pasta está vazia
+ARCHIVO_LEAME: Arquivo Leia-me (.md)
+ASSET_ANIMACION: Asset de Animação (.cea)
+IMAGE: Imagem
+TERRENO: Terreno
+TERRENO_3D: Terreno 3D
+CANVAS: Canvas
+PANEL: Painel
+
+# Editor Menubar
+ARCHIVO: Arquivo
+EDITAR: Editar
+VENTANA: Janela
+AYUDA: Ajuda
+CURSO_SCRIPTING: Curso de Scripting
+DOCUMENTACION: Documentação
+NUEVA_ESCENA: Nova Cena
+ABRIR_ESCENA: Abrir Cena...
+GUARDAR_ESCENA: Salvar Cena
+COLABORAR: Colaborar
+COLABORAR_MENU_DESC: Gestiona la colaboración en tiempo real.
+INVITAR_COLAB: Invitar a Colaborar
+INVITAR_COLAB_HINT: Comparte este código con otros desarrolladores en tu red local:
+DETENER_COLAB: Detener Colaboración
+INVITACION_PENDIENTE: Invitación de Colaboración
+ACEPTAR: Aceptar
+RECHAZAR: Rechazar
+IMPORTAR_PROYECTO: Importar Projeto...
+EXPORTAR_PROYECTO: Exportar Projeto...
+IMPORTAR_ASSET: Importar Asset...
+IMPORTAR_MODELO_3D: Importar Modelo 3D...
+EXPORTAR_ASSET_BTN: Exportar Asset...
+BUILD: Build
+CONFIG_PROYECTO: Configurações do Projeto
+PREFERENCIAS: Preferências
+
+# Editor Windows
+ESCENA: Cena
+JERARQUIA: Hierarquia
+INSPECTOR: Inspetor
+NAVEGADOR: Navegador
+CONSOLA: Console
+DEPURADOR: Depurador
+EDITOR_ANIMACION: Editor de Animações
+CONTROLADOR_ANIMACION: Controlador de Animação
+PALETA_TILES: Editor de Paleta de Tiles
+EDITOR_SPRITES: Editor de Sprites
+CONTROL_AMBIENTE: Control de Ambiente
+EDITOR_PARTICULAS: Editor de Partículas
+SCRIPTING_VISUAL: Scripting Visual
+VARIABLES: Variáveis
+LOGICA: Lógica
+FUNCIONES: Funções
+CREAR_VARIABLE: Criar Variável
+ASIGNAR_VARIABLE: Atribuir Variável
+SUMAR_VARIABLE: Somar à Var
+ESTABLECER_GLOBAL: Definir Global
+SI_CONDICION: Se (Condição)
+NUEVA_FUNCION: Nova Função
+LLAMAR_FUNCION: Chamar Função
+VARIABLES_ACTIVAS: Variáveis Ativas
+PS_SELECT_HINT: Selecione uma Matéria com Sistema de Partículas para começar.
+FUEGO: Fogo
+HUMO: Fumaça
+EXPLOSION: Explosão
+MAGIA: Magia
+EMISION: Emissão
+MAX_PARTICULAS: Máx Partículas
+TASA_EMISION: Taxa de Emissão
+FISICA_TIEMPO: Física e Tempo
+VIDA_SEG: Vida (seg)
+DISPERSION: Dispersão (º)
+COLOR_INICIO: Cor Inicial
+COLOR_FIN: Cor Final
+TAMANO_INICIO: Tamanho Inicial
+TAMANO_FIN: Tamanho Final
+DESVANECER_ALPHA: Desvanecer Alpha
+SISTEMA_VERIFICACION: Sistema de Verificação
+ACTUALIZACIONES: Atualizações
+REINICIAR_VENTANAS: Reiniciar Janelas
+ACTIVIDAD_COLABORATIVA: Atividade Colaborativa
+TIENDA_ASSETS: Loja de Assets
+VID_SPRI: Vid Spri
+VISTA_ESCENA: Cena
+VISTA_JUEGO: Jogo
+VISTA_CODIGO: Codigo
+VISTA_TERMINAL: Terminal
+
+# Hierarchy Context
+CIRCLE_COLLIDER_2D: Colisor de Círculo 2D
+CREAR_MATERIA: Criar Matéria
+MATERIA_VACIA: Vazia
+MATERIA_2D: 2D
+SPRITE: Sprite
+TILEMAP: Tilemap
+TERRENO_2D: Terreno 2D
+PARALLAX: Parallax
+RECTANGULO: Retângulo
+CIRCULO: Círculo
+TRIANGULO: Triângulo
+TRIANGLE: Triângulo 3D
+CAPSULA: Cápsula
+UI: UI
+BOTON: Botão
+TEXTO: Texto
+LUZ: Luz
+LUZ_2D: Luz 2D
+LUZ_3D: Luz 3D
+LUZ_PUNTO: Point Light
+LUZ_FOCAL: Spot Light
+LUZ_FORMA_LIBRE: Freeform Light
+LUZ_SPRITE: Sprite Light
+CAMARA: Câmera
+AUDIO: Áudio
+VIDEO: Vídeo
+WATER: Água
+LINE_COLLIDER: Colisor de Linha
+ESCENA_VACIA: A cena está vazia.<br>Clique com o botão direito para criar um objeto.
+RENOMBRAR: Renomear
+DUPLICAR: Duplicar
+ELIMINAR: Excluir
+
+# Inspector
+ADD_LEY: Adicionar Lei
+LEY: Lei
+LEYES: Leis
+TRANSFORM: Transform
+POSICION: Posição
+ROTACION: Rotação
+ESCALA: Escala
+MOVEMENT_BASIC: Movimento (Básico)
+MOVEMENT_LATERAL: Movimento Lateral (2D)
+MOVEMENT_TOPDOWN: Movimento Superior (2D)
+TEXTURE_RENDER: Renderizador de Textura
+VERTICAL_LAYOUT: Auto-Disposição Vertical
+HORIZONTAL_LAYOUT: Auto-Disposição Horizontal
+GRID_LAYOUT: Auto-Disposição Grade
+SIZE_FITTER: Ajuste de Tamanho
+VIDEO_PLAYER: Reprodutor de Vídeo
+HEALTH_COMPONENT: Vida (Health)
+ATTACK_COMPONENT: Ataque (Attack)
+SCROLL_RECT: Retângulo de Rolagem
+UI_MASK: Máscara UI
+UI_COLLIDER: Colisor UI
+PATROL_COMPONENT: Patrulha (Patrol)
+POLYGON_COLLIDER_2D: Colisor de Polígono 2D
+UI_TRANSFORM: Transformação UI
+UI_IMAGE: Imagem UI
+UI_TEXT: Texto UI
+SPRITE_RENDERER: Renderizador de Sprite
+AUDIO_SOURCE: Fonte de Áudio
+SUSPENSION_HC: Suspensão HC
+VEHICLE_TOPDOWN: Veículo Top-Down
+PLANE_CONTROLLER: Controlador de Avião
+HELICOPTER_CONTROLLER: Controlador de Helicóptero
+SKINNED_MESH_RENDERER_3D: Renderizador de Malla com Ossos 3D
+ANIMATOR_3D: Animador 3D
+SKELETON_RENDERER: Renderizador de Esqueleto
+IK_MANAGER_2D: Gestor IK 2D
+BASIC_AI: IA Básica
+RIGIDBODY_2D: Rigidbody 2D
+BOX_COLLIDER_2D: Colisor de Caixa 2D
+BODY_TYPE: Tipo de Corpo
+DYNAMIC: Dinâmico
+STATIC: Estático
+KINEMATIC: Cinemático
+RIGIDBODY_COLLIDER_WARNING: O Rigidbody precisa de un Colisor para interagir fisicamente.
+PROJECTILE_LAUNCHER_COMPONENT: Lançador de Projéteis
+AUTO_DESTROY_COMPONENT: Destruição Automática
+CAMERA_FOLLOW_COMPONENT: Seguimento de Câmara
+FIRE_SOUND: Som de Disparo
+PROP_FLIP_X: Inverter Horizontal
+PROP_FLIP_Y: Inverter Vertical
+NADA_SELECCIONADO: Nada selecionado
+ACTIVAR_DESACTIVAR_MATERIA: Ativar/Desativar Matéria
+TAG: Tag
+LAYER: Renderização
+ADD_TAG_ELLIPSIS: Adicionar Tag...
+EDIT_LAYERS_ELLIPSIS: Editar Renderização...
+SELECCIONAR_TAGS: Selecionar Tags
+MULTIPLE: Múltiplo
+TAGS_SELECTOR_INSTRUCTION: Selecione as tags que deseja atribuir a este objeto:
+SELECCIONAR_LAYERS: Selecionar Renderização
+LAYERS_SELECTOR_INSTRUCTION: Selecione as renderizações (camadas de desenho) que deseja atribuir a este objeto:
+AÑADIR_LEY_TITULO: Adicionar Lei (Componente)
+CAT_AUDIO: Áudio/Vídeo
+CAT_RENDERIZADO: Renderização
+CAT_MAPA: Mapa
+CAT_ILUMINACION: Iluminação
+CAT_UTILIDADES: Utilitários
+CAT_ANIMACION: Animação
+CAT_CAMARA: Câmera
+CAT_FISICAS: Física
+CAT_OPTIMIZACION: Otimização
+CAT_UI: UI
+CAT_VEHICULOS_LATERAL: Veículos de Vista Lateral (2D)
+CAT_VEHICULOS_CENITAL: Veículos de Visão Superior (Top-Down)
+CAT_DISPAROS_LATERAL: Tiro em Vista Lateral
+CAT_DISPAROS_CENITAL: Tiro em Visão Superior (Top-Down)
+CAT_AVENTURA_ROL: Aventura e RPG
+CAT_FPS_LATERAL: FPS de Vista Lateral
+CAT_FPS_CENITAL: FPS de Vista Superior
+CAT_BASICO_3D: Básico 3D
+CAT_FISICA_3D: Física 3D
+CAT_AUDIO_3D: Áudio 3D
+CAT_CAMARA_3D: Câmera 3D
+CAT_OTROS_3D: Outros 3D
+CAT_SCRIPTING: Scripting
+COMPONENTES_PERSONALIZADOS: Componentes Personalizados
+SCRIPTS: Scripts
+ESCANEO_PROGRESO: Escaneamento de scripts já em progresso...
+BUSCANDO_SCRIPTS: Buscando scripts...
+SIN_SCRIPTS_HINT: Nenhum script (.ces) encontrado na pasta Assets.
+ERROR_BUSCAR_SCRIPTS: Erro ao buscar scripts.
+
+# Engine Terms
+VELOCIDAD: Velocidade
+POTENCIA: Potência
+MASA: Massa
+GRAVEDAD: Gravidade
+REBOTE: Rebote
+DISTANCIA: Distância
+ANGULO: Ângulo
+LONGITUD: Comprimento
+VOLUMEN: Volume
+BUCLE: Bucle (Loop)
+REPRODUCIR: Reproduzir
+DETENER: Parar
+PAUSAR: Pausar
+
+# Combat & Health
+HEALTH: Vida
+MAX_HEALTH: Vida Máxima
+CURRENT_HEALTH: Vida Atual
+DEATH_ANIMATION: Animação de Morte
+FREEZE_FRAME: Frame Congelado
+DESTRUCTION_DELAY: Tempo de Destruição
+DISABLE_MOVEMENT: Desativar Movimento
+ATTACK: Ataque
+ATTACKS: Ataques
+CYCLE_KEY: Tecla de Ciclo
+COOLDOWN: Cooldown
+COLLIDER_MATERIA: Matéria do Colisor
+DAMAGE: Dano
+PUSH_FORCE: Força de Empuxo
+PROGRESS_BAR: Barra de Progresso
+SCROLL_VIEW: Vista de Rolagem
+TARGET_MATERIA: Matéria Alvo
+FILL_MATERIA: Matéria de Preenchimento
+ORIENTATION: Orientação
+SCENE_LOADER: Carregar Cena
+SCENE_PATH: Caminho da Cena
+TRIGGER_TAG: Tag Ativadora
+TRIGGER_KEY: Tecla Ativadora
+BUTTON_MATERIA: Matéria Botão
+SCENE_LOADER_DESC: Carrega uma cena quando o jogador colide, uma tecla é pressionada ou o botão atribuído é clicado.
+CARGA_ANIM_CTRL_HINT: Carregue um recurso de controlador (.ceanim) para começar.
+CARGA_ANIM_CTRL_HINT_2: Você pode criar um novo ou abrir um existente.
+
+# Preferences
+RESTABLECER_MOTOR: Restablecer Datos del Motor
+CONFIRM_RESTABLECER: ¿Estás seguro de que quieres borrar todos los datos locales del motor? Esto te pedirá elegir la carpeta de proyectos de nuevo. Tus archivos en el disco NO se verán afectados.
+HINT_RESTABLECER: Borra toda la configuración local (Carpeta de proyectos, claves de IA, etc.). Los archivos de tus proyectos en el disco NO se borrarán.
+OPCIONES_AVANZADAS: Opciones Avanzadas
+APARIENCIA: Aparência
+IDIOMA: Idioma
+TEMA_EDITOR: Tema do Editor
+OSCURO_MODERNO: Escuro Moderno
+CLARO: Claro
+AZUL_MARINO: Azul Marinho
+PERSONALIZADO: Personalizado
+AUTOSAVE: Salvamento automático de scripts
+RESETEAR_DISENO: Redefinir Layout de Painéis
+TITULO_PREFERENCIAS: Preferências do Editor
+GUARDAR_PREFERENCIAS: Salvar Preferências
+GUARDAR_CAMBIOS: Salvar Alterações
+KEY: Tecla
+ANIM: Anim
+NINGUNA: Nenhuma
+GENERATE_COLLIDERS: Gerar Colisores
+COLLIDERS_GENERATED: Colisores gerados
+SOURCE_LAYER: Camada de Origem
+USE_ALL_LAYERS: Usar todas as camadas
+TEXTURE_TYPE: Tipo de Textura
+SPRITE_MODE: Modo de Sprite
+PIXELS_PER_UNIT: Pixels por Unidade
+MESH_TYPE: Tipo de Malha
+FILTER_MODE: Modo de Filtro
+WRAP_MODE: Modo de Envolvimento
+MAX_SIZE: Tamanho Máximo
+COMPRESSION: Compressão
+COLUMNS: Colunas
+ROWS: Linhas
+PACKAGE_TYPE: Tipo de Pacote
+DESCRIPTION: Descrição
+AUDIO_PREVIEW: Pré-visualização de Áudio
+ACTIONS: Ações
+QUALITY: Qualidade
+OPTIMIZATION_QUALITY: Otimização e Qualidade
+ROOT_COMPONENTS: Componentes (Objeto Raíz)
+STRUCTURE: Estrutura
+EDIT_PREFAB: Editar Prefab
+ANIMATION_PREVIEW: Pré-visualização de Animação
+SLICING: Slicing
+CREATE_ANIM_ASSET: Criar Asset de Animação (.cea)
+APPLY: Aplicar
+PRESETS: Presets
+WHITE: Branco
+YELLOW: Amarelo
+GOLD: Ouro
+ORANGE: Laranja
+RED: Vermelho
+GREEN: Verde
+CYAN: Ciano
+BLUE: Azul
+VIOLET: Violeta
+POSE_CAPTURADA: Pose base capturada.
+COMPONENTE: Componente
+SIN_FUNCION: Sem Função
+EFECTO_PLATAFORMA: Efeito de Plataforma
+CLICK_BORDES: Clique nas bordas para bloquear/desbloquear
+TIPO_MOVIMIENTO: Tipo de Movimento
+VAGAR: Vagar
+ESCAPAR: Escapar
+SEGUIR: Seguir
+RANGO_ATAQUE: Alcance de Ataque
+AL_PERDER_OBJETIVO: Ao perder Objetivo
+AL_VER_OBJETIVO: Ao ver Objetivo
+CONFIG_MOTOR: Configurações do Motor
+FUERZA_INCLINACION: Inclinação
+CONTROL_AIRE: Giro no Ar
+ESTABILIDAD_AIRE: Auto-Estabilizar
+CENTRADO_SUELO: Centrado no Solo
+AGILIDAD_GIRO: Agilidade de Giro
+ARRASTRE_AIRE: Arraste de Ar
+SUSTENTACION: Sustentação
+VELOCIDAD_DESPEGUE: Vel. de Decolagem
+DERRAPE: Derrapagem
+FRENO_MOTOR: Freio Motor
+
+# Script Monitor & Scene Monitor
+MONITOR_SCRIPTS: Monitor de Script
+MONITOR_ESCENA: Monitor de Cena
+MONITOR_RED_GLOBAL: Permitir Rede (Global)
+MONITOR_BORRAR: Limpar
+MONITOR_TABLA_SCRIPT: Script
+MONITOR_TABLA_ESTADO: Estado
+MONITOR_TABLA_ULT_FUNC: Últ. Função
+MONITOR_TABLA_EJECS: Execs.
+MONITOR_TABLA_TIEMPO: Tempo (Méd/Últ)
+MONITOR_TABLA_RAM: Est. RAM
+MONITOR_TABLA_RED: Acesso Rede
+MONITOR_DETALLES_LOGS: Registro de Requisições (Últimas 10)
+MONITOR_SIN_REGISTROS: Nenhuma atividade de rede registrada.
+MONITOR_SIN_SCRIPTS: Nenhum script foi executado ainda nesta sessão.
+MONITOR_EXITOS: Êxitos
+MONITOR_ERRORES: Erros
+MONITOR_LENTOS: Lentas
+MONITOR_GUARDAR_HISTORIAL: Guardar Histórico
+MONITOR_BORRAR_SESION: Limpar Sessão
+MONITOR_ANALISIS_DETALLADO: Análise Detalhada de Funções
+MONITOR_SUGERENCIAS: Sugestões de Otimização
+MONITOR_RED_RECIENTES: Requisições de Rede Recentes
+MONITOR_FUNCION: Função
+MONITOR_LLAMADOS: Chamadas
+
+[RU]
+# Header
+INICIAR_SESION: Войти
+SILENCIAR_MUSICA: Выключить музыку
+
+# General
+TUTORIALES: Обучение
+EMPEZAR: Начать создание
+CONTACTO: Контакты и поддержка
+SOPORTE: Поддержка
+OPINIONES: Мнения
+RECLAMOS: Претензии
+DONAR: Пожертвовать через PayPal
+DISCORD: Присоединиться к Discord
+CREDITOS: Сделано Carley Interactive Studio при помощи Google Jules.
+LICENCIA_BTN: Читать нашу лицензию
+CONOCE_JUEGOS: познакомьтесь с играми, сделанными на нашем движке
+VERIFICANDO: Проверка...
+CUENTA: Аккаунт
+DONAR_BOTON: Пожертвовать
+QUE_HACEMOS_DONACIONES: Что мы делаем с вашими пожертвованиями?
+NUESTROS_CANALES: Наши каналы
+CANALES: Каналы
+SOLUCION_RAPIDA: Быстрые решения
+PROYECTO_COLABORATIVO: Совместный проект
+UNIRSE_COLAB: Присоединиться к коллаборации
+UNIRSE_PROYECTO_TITULO: Присоединиться к проекту
+UNIRSE_PROYECTO_DESC: Введите код, который вам прислали, чтобы начать совместную работу в режиме реального времени.
+CONECTAR: Подключиться
+UNIRSE: Присоединиться
+COMPARTIR_CON_CARLEY: Поделиться с Carley
+COMPARTIR_CON_CARLEY_HINT: Делитесь своими кодами каждый раз, когда публикуете видеоигру
+COMPARTIR_CON_CARLEY_DESC: Мы будем очень признательны, если вы поделитесь своими кодами CES, потому что это поможет нам обучить нашу модель ИИ Carley Creative Code, которая была разработана с нуля специально для движка. Модель будет потреблять менее 1 ГБ оперативной памяти, что сделает её использование на серверах менее затратным, и нам не придется много платить. Это также позволит большему количеству пользователей получить доступ к ИИ и сделано так, чтобы программирование на движке было очень простым и понятным. Мы ни с кем не делимся вашим кодом; мы будем использовать его только в целях обучения, чтобы в ближайшем будущем вы могли просто сказать движку, чего хотите, и он воплотил это в реальность.
+LICENCIA: Лицензия
+POLITICA_PRIVACIDAD: Политика конфиденциальности
+COOKIES: Cookies
+FOROS: Форумы
+DONACIONES: Пожертвования
+LEGAL: Юридическая информация
+MIS_JUEGOS: Мои Игры
+PUBLICAR_JUEGO: Опубликовать Игру
+ENLACE_GITHUB: Ссылка на GitHub
+SUBIR_FOTO_JUEGO: Загрузить фото для Creative Games
+DESCRIPCION_JUEGO: Описание Игры
+SUBIR: Загрузить
+VERIFICAR_PROYECTO: Проверить Проект
+BORRAR_JUEGO: Удалить Игру
+JUGADAS: Просмотры
+COMENTARIOS: Комментарии
+ME_GUSTAS: Лайки
+PRUEBA_VIDSPRI: Также попробуйте VidSpri
+NUESTRO_SITIO_WEB: Наш веб-сайт
+COMPARTIR_MOTOR: Поделиться движком
+MAS: Больше
+CARGANDO_PROYECTO: Загрузка проекта...
+CARGANDO_LIBS: Загрузка библиотек...
+HA_OCURRIDO_ERROR: Произошла ошибка.
+REINTENTAR: Повторить
+VOLVER_INICIO: Вернуться в начало
+OPT_LEVEL_NOTICE: Nivel de Optimización: {level} (FPS: {fps})
+CONCEDER_PERMISOS: Предоставить разрешения
+ERROR_PERMISOS_DETALLES: Creative Engine требуется ваше разрешение для чтения и записи в папку ваших проектов.
+CARL_WELCOME_MSG: Привет! Я Карл, твой помощник в Creative Engine. Чем я могу помочь тебе в создании сегодня?
+CARL_V1_MANTENIMIENTO: Carl V1 в настоящее время находится на техническом обслуживании. Пожалуйста, используйте внешнюю модель (Gemini/OpenAI/Claude), настроив её в Настройках.
+CARL_ERROR_CONEXION: Я не могу подключиться к {provider}. Пожалуйста, убедитесь, что вы правильно настроили свой API-ключ в панели Настроек.
+CARL_BUSCANDO_MODELO: Модель по умолчанию не сработала. Ищу совместимую для вас...
+CARL_MODELO_ENCONTRADO: Я нашел совместимую модель! Использую '{model}'. Повторная попытка...
+CARL_ERROR_SIN_MODELO: Не удалось найти совместимую модель чата в вашем списке API-ключей.
+CARL_ERROR_LISTAR_MODELOS: Не удалось получить список доступных моделей для вашего API-ключа. Проверьте консоль.
+CARL_BUSY_MSG: подождите Карл скоро вам ответит не теряйте терпения
+
+# Welcome Section
+WELCOME_TITLE: Creative Engine
+WELCOME_SUBTITLE: Ваша игра начинается здесь. Что вообразите, то и построите.
+WELCOME_DESCRIPTION: Бесплатный 2D-движок для создания игр прямо в браузере. Проектируйте без границ, творите без страха и публикуйте с гордостью.
+COPYRIGHT_FOOTER: &copy; 2026 Carley Interactive Studio. Все права защищены.
+TIKTOK: TikTok
+
+# Quotes
+QUOTE_1: Ваша игра начинается здесь. Что вообразите, то и построите.
+QUOTE_2: Вам не нужен опыт, только видение. Creative Engine сделает остальное.
+QUOTE_3: Каждая сцена, которую вы создаете — это окно в ваш мир. Откройте его.
+QUOTE_4: Вы не просто используете движок. Вы раскрываете свой творческий потенциал.
+QUOTE_5: Есть идея? Здесь она станет игрой.
+QUOTE_6: Проектируйте без границ. Творите без страха. Публикуйте с гордостью.
+QUOTE_7: Ваша история заслуживает того, чтобы в нее сыграли. Creative Engine дает вам контроль.
+QUOTE_8: Не ждите, пока кто-то другой сделает это. Сделайте это сами сегодня.
+QUOTE_9: Каждый пиксель — это решение. Каждое решение — шедевр.
+QUOTE_10: Творчеству не учат. Оно пробуждается.
+
+# Auth State
+HOLA: Привет
+CERRAR_SESION: Выйти
+REGISTRANDO: Регистрация...
+ERROR_REGISTRO: Ошибка регистрации
+REGISTRO_EXITOSO: Регистрация прошла успешно!
+REGISTRO_MSG: Проверьте почту для подтверждения аккаунта.
+INICIANDO_SESION_PROGRESO: Вход в систему...
+ERROR_LOGIN: Ошибка входа
+AUTH_RESET_SENT: Если аккаунт с таким адресом существует, ссылка для восстановления отправлена.
+ENVIANDO: Отправка...
+
+# Launcher
+GRAFICOS_AVANZADOS: Продвинутая графика
+OPTIMIZACION_GRAFICA: Оптимизация и детализация
+RESOURCE_LOADING_MODE: Режим загрузки ресурсов
+PRELOAD_STABLE: Предзагрузка (Стабильно - Загружает всё перед запуском)
+LAZY_LOAD_FAST: Отложенная загрузка (Быстрый старт - Загрузка во время игры)
+CARGANDO_RECURSOS: Загрузка ресурсов...
+CARPETA: Папка
+MIS_PROYECTOS: Мои проекты
+CREAR_NUEVO_PROYECTO: Создать новый проект
+TIPO_PROYECTO: Тип проекта:
+PROYECTO_2D: 2D проект
+PROYECTO_3D: 3D проект
+MUY_PRONTO: Скоро
+AVISO_STORAGE: Важное примечание: Ваши проекты сохраняются локально в выбранной вами папке. Creative Engine не хранит информацию на внешних серверах.
+NOMBRE_PROYECTO: Название проекта:
+HINT_PROYECTO: Используйте буквы, цифры и дефисы. Без пробелов и спецсимволов.
+SOY_NUEVO: Я новичок
+HINT_SOY_NUEVO: Включите это, чтобы получить базовое руководство при открытии проекта.
+CREAR: Создать
+SIN_PROYECTOS: У вас пока нет проектов. Создайте один, чтобы начать!
+TIPO_COLAB: Тип совместной работы:
+COLAB_LOCAL: Локальная
+COLAB_ONLINE: Онлайн
+HINT_COLAB_LOCAL: Подключитесь к партнеру в той же сети Wi-Fi.
+HINT_COLAB_ONLINE: Подключайтесь через серверы Carley.
+INGRESAR_CODIGO: Введите код
+NO_DISPONIBLE: Недоступно
+
+# Libraries
+LIBRERIAS: Библиотеки
+IMPORTAR: Импорт
+EXPORTAR: Экспорт
+DOCS_API: Документация API
+SIN_LIBRERIAS: Библиотеки в папке /lib проекта не найдены.
+SIN_LIBRERIAS_HINT: Используйте 'Создать' для новой или 'Импорт' для добавления существующего .celib файла.
+CREAR_NUEVA_LIBRERIA: Создать новую библиотеку
+INFO_BASICA: Основная информация
+NOMBRE_LIBRERIA: Название библиотеки
+AUTOR_ORG: Автор / Организация
+VERSION: Версия
+FIRMA: Подпись (необязательно)
+ICONO_LIBRERIA: Иконка библиотеки
+HINT_ICONO_LIB: Главная иконка для отображения в магазине.
+ICONO_AUTOR: Иконка автора
+HINT_ICONO_AUTOR: Маленький логотип или фото профиля.
+FUNC_PERMISOS: Функциональность и разрешения
+DESCRIPCION_USO: Описание / Как использовать
+ARCHIVOS_LIB: Файлы библиотеки (.js, .ces)
+DROP_ARCHIVOS: Перетащите файлы сюда или нажмите для выбора.
+HINT_ARCHIVOS_LIB: Добавьте один или несколько файлов. Движок объединит их. При использовании API редактора (панели и т.д.) основным должен быть .js файл.
+PERMISO_WINDOWS: Разрешить создание окон и панелей в редакторе.
+PERMISO_RUNTIME: Разрешить доступ к функциям из скриптов (.ces).
+PERMISO_TOOL: Это внутренний инструмент движка (напр., переводы).
+PERMISO_COMPONENTS: Разрешить регистрацию пользовательских компонентов.
+PERMISO_ASSETS: Разрешить создание и изменение ассетов.
+CREAR_LIBRERIA: Создать библиотеку
+DETALLES_LIBRERIA: Детали библиотеки
+INFORMACION: Информация
+ESTADO_PERMISOS: Статус и разрешения
+ESTADO: Статус
+ACTIVO: Активен
+INACTIVO: Неактивен
+ACTIVAR: Активировать
+GESTIONAR: Управление
+ACTIVIDAD: Активность
+DESACTIVAR: Деактивировать
+ACTIVADA: активирована
+DESACTIVADA: деактивирована
+SIN_DESCRIPCION: Без описания.
+SIN_PERMISOS: Без специальных разрешений.
+IMPORTAR_LIBRERIA: Импортировать библиотеку
+NO_ACTIVIDAD_RECIENTE: Нет недавней активности.
+
+# Asset Browser
+CREAR_CARPETA: Создать папку
+NOMBRE_CARPETA_PROMPT: Введите название новой папки:
+CREAR_CONTROLADOR_ANIMACION: Создать контроллер анимации
+NOMBRE_CONTROLADOR_PROMPT: Введите название нового контроллера (.ceanim):
+CREAR_PREFAB: Создать префаб
+NOMBRE_PREFAB_PROMPT: Введите название нового префаба (.ceprefab):
+CREAR_SCRIPT_CHC: Создать скрипт H-Code
+NOMBRE_SCRIPT_PROMPT: Введите название нового скрипта:
+CREAR_SCRIPT: Создать скрипт
+CREAR_ESCENA: Создать сцену
+NOMBRE_ESCENA_PROMPT: Введите название новой сцены (.ceScene):
+CREAR_ANIMACION: Создать ассет анимации
+NOMBRE_ANIMACION_PROMPT: Введите название нового ассета (.cea):
+CREAR_README: Создать файл Readme
+NOMBRE_ARCHIVO_PROMPT: Введите название файла:
+CREAR_PALETA_TILES: Создать палитру тайлов
+NOMBRE_PALETA_PROMPT: Введите название новой палитры (.cepalette):
+CONFIRMAR_BORRADO: Подтвердить удаление
+BORRAR_ASSET_CONFIRM: Вы уверены, что хотите удалить
+ACCION_IRREVERSIBLE: Это действие нельзя отменить.
+RENOMBRAR_ASSET: Переименовать ассет
+INTRODUCE_NUEVO_NOMBRE: Введите новое имя для
+CARPETA_VACIA: Папка пуста
+ARCHIVO_LEAME: Файл Readme (.md)
+ASSET_ANIMACION: Ассет анимации (.cea)
+IMAGE: Изображение
+TERRENO: Террейн
+TERRENO_3D: 3D Террейн
+CANVAS: Канвас
+PANEL: Панель
+
+# Editor Menubar
+ARCHIVO: Файл
+EDITAR: Правка
+VENTANA: Окно
+AYUDA: Справка
+CURSO_SCRIPTING: Курс по скриптингу
+COMBATANT: Боец
+DOCUMENTACION: Документация
+NUEVA_ESCENA: Новая сцена
+ABRIR_ESCENA: Открыть сцену...
+GUARDAR_ESCENA: Сохранить сцену
+IMPORTAR_PROYECTO: Импортировать проект...
+EXPORTAR_PROYECTO: Экспортировать проект...
+IMPORTAR_ASSET: Импортировать ассет...
+IMPORTAR_MODELO_3D: Импортировать 3D-модель...
+EXPORTAR_ASSET_BTN: Экспортировать ассет...
+BUILD: Сборка
+CONFIG_PROYECTO: Настройки проекта
+PREFERENCIAS: Настройки
+
+# Editor Windows
+ESCENA: Сцена
+JERARQUIA: Иерархия
+INSPECTOR: Инспектор
+NAVEGADOR: Браузер
+CONSOLA: Консоль
+DEPURADOR: Отладчик
+EDITOR_ANIMACION: Редактор анимаций
+CONTROLADOR_ANIMACION: Контроллер анимации
+PALETA_TILES: Редактор палитры тайлов
+EDITOR_SPRITES: Редактор спрайтов
+CONTROL_AMBIENTE: Управление окружением
+SISTEMA_VERIFICACION: Система проверки
+ACTUALIZACIONES: Обновления
+REINICIAR_VENTANAS: Сброс окон
+ACTIVIDAD_COLABORATIVA: Совместная активность
+TIENDA_ASSETS: Магазин ассетов
+VID_SPRI: Vid Spri
+VISTA_ESCENA: Сцена
+VISTA_JUEGO: Игра
+VISTA_CODIGO: Код
+VISTA_TERMINAL: Терм.
+
+# Hierarchy Context
+CIRCLE_COLLIDER_2D: 2D Круговой коллайдер
+CREAR_MATERIA: Создать материю
+MATERIA_VACIA: Пустая
+MATERIA_2D: 2D
+SPRITE: Спрайт
+TILEMAP: Тайлмап
+TERRENO_2D: 2D Террейн
+PARALLAX: Параллакс
+RECTANGULO: Прямоугольник
+CIRCULO: Круг
+TRIANGULO: Треугольник
+TRIANGLE: 3D Треугольник
+CAPSULA: Капсула
+UI: Интерфейс
+BOTON: Кнопка
+TEXTO: Текст
+LUZ: Свет
+LUZ_2D: 2D Свет
+LUZ_3D: 3D Свет
+LUZ_PUNTO: Точечный свет
+LUZ_FOCAL: Прожектор
+LUZ_FORMA_LIBRE: Произвольный свет
+LUZ_SPRITE: Спрайтовый свет
+CAMARA: Камера
+AUDIO: Аудио
+VIDEO: Видео
+WATER: Вода
+LINE_COLLIDER: Линейный коллайдер
+ESCENA_VACIA: Сцена пуста.<br>ПКМ для создания объекта.
+RENOMBRAR: Переименовать
+DUPLICAR: Дублировать
+ELIMИНАР: Удалить
+
+# Inspector
+ADD_LEY: Добавить закон
+LEY: Закон
+LEYES: Законы
+TRANSFORM: Transform
+POSICION: Позиция
+ROTACION: Вращение
+ESCALA: Масштаб
+MOVEMENT_BASIC: Движение (Базовое)
+MOVEMENT_LATERAL: Боковое движение (2D)
+MOVEMENT_TOPDOWN: Движение сверху вниз (2D)
+TEXTURE_RENDER: Рендерер текстуры
+VERTICAL_LAYOUT: Вертикальная компоновка
+HORIZONTAL_LAYOUT: Горизонтальная компоновка
+GRID_LAYOUT: Сеточная компоновка
+SIZE_FITTER: Подгонка размера
+VIDEO_PLAYER: Видеоплеер
+HEALTH_COMPONENT: Компонент здоровья
+ATTACK_COMPONENT: Компонент атаки
+SCROLL_RECT: Область прокрутки
+UI_MASK: Маска UI
+UI_COLLIDER: Коллайдер UI
+PATROL_COMPONENT: Патруль
+POLYGON_COLLIDER_2D: Полигональный коллайдер 2D
+UI_TRANSFORM: UI Трансформ
+UI_IMAGE: UI Изображение
+UI_TEXT: UI Текст
+SPRITE_RENDERER: Рендерер спрайта
+AUDIO_SOURCE: Источник звука
+SUSPENSION_HC: Подвеска HC
+VEHICLE_TOPDOWN: Транспорт (Вид сверху)
+PLANE_CONTROLLER: Контроллер самолета
+HELICOPTER_CONTROLLER: Контроллер вертолета
+SKINNED_MESH_RENDERER_3D: Скелетный рендерер 3D
+ANIMATOR_3D: Аниматор 3D
+SKELETON_RENDERER: Скелетный рендерер
+IK_MANAGER_2D: ИК Менеджер 2D
+BASIC_AI: Базовый ИИ
+RIGIDBODY_2D: Rigidbody 2D
+BOX_COLLIDER_2D: Коробочный коллайдер 2D
+BODY_TYPE: Тип тела
+DYNAMIC: Динамический
+STATIC: Статический
+KINEMATIC: Кинематический
+RIGIDBODY_COLLIDER_WARNING: Rigidbody требуется коллайдер для физического взаимодействия.
+PROJECTILE_LAUNCHER_COMPONENT: Запуск снарядов
+AUTO_DESTROY_COMPONENT: Авто-уничтожение
+CAMERA_FOLLOW_COMPONENT: Слежение камеры
+FIRE_SOUND: Звук выстрела
+PROP_FLIP_X: Отразить по горизонтали
+PROP_FLIP_Y: Отразить по вертикали
+NADA_SELECCIONADO: Ничего не выбрано
+ACTIVAR_DESACTIVAR_MATERIA: Вкл/Выкл материю
+TAG: Тег
+LAYER: Рендеринг
+ADD_TAG_ELLIPSIS: Добавить тег...
+EDIT_LAYERS_ELLIPSIS: Редактировать рендеринг...
+SELECCIONAR_TAGS: Выбрать теги
+MULTIPLE: Несколько
+TAGS_SELECTOR_INSTRUCTION: Выберите теги, которые вы хотите присвоить этому объекту:
+SELECCIONAR_LAYERS: Выбрать слои рендеринга
+LAYERS_SELECTOR_INSTRUCTION: Выберите слои рендеринга (слои рисования), которые вы хотите присвоить этому объекту:
+AÑADIR_LEY_TITULO: Добавить закон (Компонент)
+CAT_AUDIO: Аудио/Видео
+CAT_RENDERIZADO: Рендеринг
+CAT_MAPA: Карта
+CAT_ILUMINACION: Освещение
+CAT_UTILIDADES: Утилиты
+CAT_ANIMACION: Анимация
+CAT_CAMARA: Камера
+CAT_FISICAS: Физика
+CAT_OPTIMIZACION: Оптимизация
+CAT_UI: Интерфейс
+CAT_VEHICULOS_LATERAL: Транспорт (Вид Сбоку 2D)
+CAT_VEHICULOS_CENITAL: Транспорт (Вид Сверху Top-Down)
+CAT_DISPAROS_LATERAL: Шутер (Вид Сбоку)
+CAT_DISPAROS_CENITAL: Шутер (Вид Сверху)
+CAT_AVENTURA_ROL: Приключения и Ролевые (RPG)
+CAT_FPS_LATERAL: Шутер (Вид сбоку)
+CAT_FPS_CENITAL: Шутер (Вид сверху)
+CAT_BASICO_3D: Базовый 3D
+CAT_FISICA_3D: Физика 3D
+CAT_AUDIO_3D: Аудио 3D
+CAT_CAMARA_3D: Камера 3D
+CAT_OTROS_3D: Прочее 3D
+CAT_SCRIPTING: Скриптинг
+COMPONENTES_PERSONALIZADOS: Пользовательские компоненты
+SCRIPTS: Скрипты
+ESCANEO_PROGRESO: Сканирование скриптов уже идет...
+BUSCANDO_SCRIPTS: Поиск скриптов...
+SIN_SCRIPTS_HINT: Скрипты (.ces) в папке Assets не найдены.
+ERROR_BUSCAR_SCRIPTS: Ошибка поиска скриптов.
+CARGA_ANIM_HINT: Выберите ассет анимации (.cea), чтобы начать.
+CREAR_ANIM_RAPIDA: Создать новую анимацию
+ABRIR_ANIM_RAPIDA: Открыть существующий
+CARGA_ANIM_CTRL_HINT: Загрузите ассет контроллера (.ceanim), чтобы начать.
+CREAR_CTRL_RAPIDO: Создать новый контроллер
+ABRIR_CTRL_RAPIDO: Открыть существующий
+
+# Engine Terms
+VELOCIDAD: Скорость
+POTENCIA: Мощность
+MASA: Масса
+GRAVEDAD: Гравитация
+REBOTE: Отскок
+DISTANCIA: Дистанция
+ANGULO: Угол
+LONGITUD: Длина
+VOLUMEN: Громкость
+BUCLE: Цикл (Loop)
+REPRODUCIR: Воспроизвести
+DETENER: Стоп
+PAUSAR: Пауза
+
+# Performance
+RENDIMIENTO: Производительность
+MAX_FPS: Макс. FPS
+MIN_FPS: Мин. FPS
+HINT_MAX_FPS: Ограничение FPS для экономии заряда батареи и ресурсов. Используйте 0 для отсутствия лимита.
+HINT_MIN_FPS: Движок активирует экстремальную оптимизацию, если производительность упадет ниже этого значения.
+HINT_MIN_FPS_NOTICE: Примечание: Это минимальное количество не гарантировано, но оно активирует глубокую оптимизацию для поддержания плавности.
+
+# Combat & Health
+HEALTH: Здоровье
+MAX_HEALTH: Макс. здоровье
+CURRENT_HEALTH: Текущее здоровье
+DEATH_ANIMATION: Анимация смерти
+FREEZE_FRAME: Замороженный кадр
+DESTRUCTION_DELAY: Задержка удаления
+DISABLE_MOVEMENT: Отключить движение
+ATTACK: Атака
+ATTACKS: Атаки
+CYCLE_KEY: Клавиша цикла
+COOLDOWN: Перезарядка
+COLLIDER_MATERIA: Объект коллайдера
+DAMAGE: Урон
+PUSH_FORCE: Сила отталкивания
+PROGRESS_BAR: Шкала прогресса
+SCROLL_VIEW: Прокрутка
+TARGET_MATERIA: Целевой объект
+FILL_MATERIA: Объект заполнения
+ORIENTATION: Ориентация
+SCENE_LOADER: Загрузка сцены
+SCENE_PATH: Путь к сцене
+TRIGGER_TAG: Тег-активатор
+TRIGGER_KEY: Клавиша-активатор
+BUTTON_MATERIA: Объект кнопки
+SCENE_LOADER_DESC: Загружает сцену при столкновении игрока, нажатии клавиши или клике на назначенную кнопку.
+CARGA_ANIM_CTRL_HINT_2: Вы можете создать новый или открыть существующий.
+ANIMACIONES: Анимации
+ESTADOS: Состояния
+INSPECTOR_ESTADO: Инспектор состояния
+BUSCAR_ANIMACIONES: Поиск анимаций...
+HINT_SELECCIONA_ELEMENTO: Выберите элемент для просмотра свойств.
+
+# Preferences
+RESTABLECER_MOTOR: Restablecer Datos del Motor
+CONFIRM_RESTABLECER: ¿Estás seguro de que quieres borrar todos los datos locales del motor? Esto te pedirá elegir la carpeta de proyectos de nuevo. Tus archivos en el disco NO se verán afectados.
+HINT_RESTABLECER: Borra toda la configuración local (Carpeta de proyectos, claves de IA, etc.). Los archivos de tus proyectos en el disco NO se borrarán.
+OPCIONES_AVANZADAS: Opciones Avanzadas
+APARIENCIA: Внешний вид
+IDIOMA: Язык
+TEMA_EDITOR: Тема редактора
+OSCURO_MODERNO: Темная современная
+CLARO: Светлая
+AZUL_MARINO: Морской синий
+PERSONALIZADO: Своя
+AUTOSAVE: Автосохранение скриптов
+RESETEAR_DISENO: Сброс макета панелей
+TITULO_PREFERENCIAS: Настройки редактора
+GUARDAR_PREFERENCIAS: Сохранить настройки
+GUARDAR_CAMBIOS: Сохранить изменения
+KEY: Клавиша
+ANIM: Аним
+NINGUNA: Нет
+GENERATE_COLLIDERS: Генерировать коллайдеры
+COLLIDERS_GENERATED: Коллайдеров сгенерировано
+SOURCE_LAYER: Слой источника
+USE_ALL_LAYERS: Использовать все слои
+TEXTURE_TYPE: Тип текстуры
+SPRITE_MODE: Режим спрайта
+PIXELS_PER_UNIT: Пикселей на единицу
+MESH_TYPE: Тип сетки
+FILTER_MODE: Режим фильтрации
+WRAP_MODE: Режим повтора
+MAX_SIZE: Макс. размер
+COMPRESSION: Сжатие
+COLUMNS: Столбцы
+ROWS: Строки
+PACKAGE_TYPE: Тип пакета
+DESCRIPTION: Описание
+AUDIO_PREVIEW: Предпрослушивание
+ACTIONS: Действия
+QUALITY: Качество
+OPTIMIZATION_QUALITY: Оптимизация и качество
+ROOT_COMPONENTS: Компоненты (Корневой объект)
+STRUCTURE: Структура
+EDIT_PREFAB: Редактировать префаб
+ANIMATION_PREVIEW: Предпросмотр анимации
+SLICING: Нарезка (Slicing)
+CREATE_ANIM_ASSET: Создать ассет анимации (.cea)
+APPLY: Применить
+PRESETS: Пресеты
+WHITE: Белый
+YELLOW: Желтый
+GOLD: Золотой
+ORANGE: Оранжевый
+RED: Красный
+GREEN: Зеленый
+CYAN: Циан
+BLUE: Синий
+VIOLET: Фиолетовый
+POSE_CAPTURADA: Базовая поза захвачена.
+COMPONENTE: Компонент
+SIN_FUNCION: Без функции
+EFECTO_PLATAFORMA: Эффект платформы
+CLICK_BORDES: Нажмите на края, чтобы заблокировать/разблокировать
+TIPO_MOVIMIENTO: Тип движения
+VAGAR: Блуждание
+ESCAPAR: Побег
+SEGUIR: Преследование
+RANGO_ATAQUE: Дальность атаки
+AL_PERDER_OBJETIVO: При потере цели
+AL_VER_OBJETIVO: При обнаружении цели
+CONFIG_MOTOR: Настройки двигателя
+FUERZA_INCLINACION: Наклон
+CONTROL_AIRE: Поворот в воздухе
+ESTABILIDAD_AIRE: Автостабилизация
+CENTRADO_SUELO: Центрирование на земле
+AGILIDAD_GIRO: Маневренность
+ARRASTRE_AIRE: Сопротивление воздуха
+SUSTENTACION: Подъемная сила
+VELOCIDAD_DESPEGUE: Скорость взлета
+DERRAPE: Дрифт
+FRENO_MOTOR: Торможение двигателем
+
+# Script Monitor & Scene Monitor
+MONITOR_SCRIPTS: Монитор скриптов
+MONITOR_ESCENA: Монитор сцены
+MONITOR_RED_GLOBAL: Разрешить сеть (глобально)
+MONITOR_BORRAR: Очистить
+MONITOR_TABLA_SCRIPT: Скрипт
+MONITOR_TABLA_ESTADO: Статус
+MONITOR_TABLA_ULT_FUNC: Посл. функция
+MONITOR_TABLA_EJECS: Вып.
+MONITOR_TABLA_TIEMPO: Время (Ср/Посл)
+MONITOR_TABLA_RAM: Оценка ОЗУ
+MONITOR_TABLA_RED: Доступ к сети
+MONITOR_DETALLES_LOGS: Журнал запросов (последние 10)
+MONITOR_SIN_REGISTROS: Сетевая активность не зарегистрирована.
+MONITOR_SIN_SCRIPTS: В этом сеансе скрипты еще не выполнялись.
+MONITOR_EXITOS: Успешно
+MONITOR_ERRORES: Ошибки
+MONITOR_LENTOS: Медленно
+MONITOR_GUARDAR_HISTORIAL: Сохранить историю
+MONITOR_BORRAR_SESION: Сбросить сеанс
+MONITOR_ANALISIS_DETALLADO: Детальный анализ функций
+MONITOR_SUGERENCIAS: Рекомендации по оптимизации
+MONITOR_RED_RECIENTES: Последние сетевые запросы
+MONITOR_FUNCION: Функция
+MONITOR_LLAMADOS: Вызовы
+
+[ZH]
+# Header
+INICIAR_SESION: 登录
+SILENCIAR_MUSICA: 静音
+
+# General
+TUTORIALES: 教程
+EMPEZAR: 开始创作
+CONTACTO: 联系与支持
+SOPORTE: 支持
+OPT_LEVEL_NOTICE: 优化级别: {level} (FPS: {fps})
+OPINIONES: 意见
+RECLAMOS: 投诉
+DONAR: 通过 PayPal 捐赠
+DISCORD: 加入 Discord
+CREDITOS: 由 Carley Interactive Studio 在 Google Jules 的帮助下制作。
+LICENCIA_BTN: 阅读我们的许可证
+CONOCE_JUEGOS: 探索使用我们的引擎制作的游戏
+VERIFICANDO: 正在验证...
+CUENTA: 账户
+DONAR_BOTON: 捐赠
+QUE_HACEMOS_DONACIONES: 我们如何处理您的捐赠？
+NUESTROS_CANALES: 我们的频道
+CANALES: 频道
+SOLUCION_RAPIDA: 快速解决方案
+PROYECTO_COLABORATIVO: 协作项目
+UNIRSE_COLAB: 加入协作
+UNIRSE_PROYECTO_TITULO: 加入项目
+UNIRSE_PROYECTO_DESC: 输入您收到的代码，开始实时共同创作。
+CONECTAR: 连接
+UNIRSE: 加入
+COMPARTIR_CON_CARLEY: 与 Carley 分享
+COMPARTIR_CON_CARLEY_HINT: 每次发布视频游戏时分享您的代码
+COMPARTIR_CON_CARLEY_DESC: 我们非常感谢您分享您的 CES 代码，因为这将帮助我们训练我们的 AI 模型 Carley Creative Code，它是专门为该引擎从头开始设计的。该模型将消耗不到 1 GB 的 RAM，这将降低其在服务器上的使用成本，使我们不必支付太多费用。它还将让更多用户能够访问 AI，并且其设计使得在引擎中编程变得非常容易和简单。我们不会与任何人分享您的代码；我们只会将其用于培训目的，以便在不久的将来，您只需告诉引擎您想要什么，它就会将其变为现实。
+LICENCIA: 许可证
+POLITICA_PRIVACIDAD: 隐私政策
+COOKIES: Cookies
+FOROS: 论坛
+DONACIONES: 捐赠
+LEGAL: 法律
+MIS_JUEGOS: 我的游戏
+PUBLICAR_JUEGO: 发布游戏
+ENLACE_GITHUB: GitHub 链接
+SUBIR_FOTO_JUEGO: 为 Creative Games 上传照片
+DESCRIPCION_JUEGO: 游戏描述
+SUBIR: 上传
+VERIFICAR_PROYECTO: 验证项目
+BORRAR_JUEGO: 删除游戏
+JUGADAS: 播放量
+COMENTARIOS: 评论
+ME_GUSTAS: 点赞
+PRUEBA_VIDSPRI: 也请尝试 VidSpri
+NUESTRO_SITIO_WEB: 我们的网站
+COMPARTIR_MOTOR: 分享引擎
+MAS: 更多
+CARGANDO_PROYECTO: 正在加载您的项目...
+CARGANDO_LIBS: 正在加载库...
+HA_OCURRIDO_ERROR: 发生错误。
+REINTENTAR: 重试
+VOLVER_INICIO: 返回首页
+CONCEDER_PERMISOS: 授予权限
+ERROR_PERMISOS_DETALLES: Creative Engine 需要您的许可才能在您的项目文件夹中进行读写操作。
+CARL_WELCOME_MSG: 你好！我是 Carl，你的 Creative Engine 助手。今天我能帮你构建什么？
+CARL_V1_MANTENIMIENTO: Carl V1 目前正在进行大脑维护。请通过在“偏好设置”中进行配置来使用外部模型（Gemini/OpenAI/Claude）。
+CARL_ERROR_CONEXION: 我无法连接到 {provider}。请确保您已在“偏好设置”面板中正确配置了您的 API Key。
+CARL_BUSCANDO_MODELO: 默认模型不起作用。正在为您寻找兼容的模型...
+CARL_MODELO_ENCONTRADO: 我找到了一个兼容的模型！正在使用“{model}”。正在重试...
+CARL_ERROR_SIN_MODELO: 我无法在您的 API key 列表中找到兼容的聊天模型。
+CARL_ERROR_LISTAR_MODELOS: 我无法列出您的 API key 的可用模型。请检查控制台。
+CARL_BUSY_MSG: 等一下 卡尔马上就会为您服务 请耐心等待
+
+# Welcome Section
+WELCOME_TITLE: Creative Engine
+WELCOME_SUBTITLE: 您的游戏从这里开始。所见即所造。
+WELCOME_DESCRIPTION: 一款可以在浏览器中直接创作的免费 2D 游戏引擎。无限制设计，无畏创作，自豪发布。
+COPYRIGHT_FOOTER: &copy; 2026 Carley Interactive Studio。保留所有权利。
+TIKTOK: TikTok
+
+# Quotes
+QUOTE_1: 您的游戏从这里开始。所见即所造。
+QUOTE_2: 您不需要经验，只需要愿景。Creative Engine 会处理剩下的事情。
+QUOTE_3: 您创建的每个场景都是通往世界的一扇窗。打开它。
+QUOTE_4: 您不是在使用引擎。您正在释放您的创作潜能。
+QUOTE_5: 有个主意？在这里它变成了一个游戏。
+QUOTE_6: 无限制设计。无畏创作。自豪发布。
+QUOTE_7: 您的故事值得被传颂。Creative Engine 给您控制权。
+QUOTE_8: 不要等待别人去做。今天就自己动手。
+QUOTE_9: 您放置的每个像素都是一个决定。每个决定都是杰作。
+QUOTE_10: 创造力不是教出来的。它是被释放出来的。
+
+# Auth State
+HOLA: 你好
+CERRAR_SESION: 注销
+REGISTRANDO: 正在注册...
+ERROR_REGISTRO: 注册错误
+REGISTRO_EXITOSO: 注册成功！
+REGISTRO_MSG: 请检查您的电子邮件以验证您的帐户。
+INICIANDO_SESION_PROGRESO: 正在登录...
+ERROR_LOGIN: 登录错误
+AUTH_RESET_SENT: 如果该电子邮件存在帐户，则已发送恢复链接。
+ENVIANDO: 正在发送...
+
+# Launcher
+GRAFICOS_AVANZADOS: 高级图形
+OPTIMIZACION_GRAFICA: 优化与细节
+RESOURCE_LOADING_MODE: 资源加载模式
+PRELOAD_STABLE: 预加载 (稳定 - 启动前加载所有内容)
+LAZY_LOAD_FAST: 懒加载 (快速启动 - 边玩边加载)
+CARGANDO_RECURSOS: 正在加载资源...
+CARPETA: 文件夹
+MIS_PROYECTOS: 我的项目
+CREAR_NUEVO_PROYECTO: 创建新项目
+TIPO_PROYECTO: 项目类型:
+PROYECTO_2D: 2D 项目
+PROYECTO_3D: 3D 项目
+MUY_PRONTO: 敬请期待
+AVISO_STORAGE: 重要提示：您的项目保存在您选择的本地文件夹中。Creative Engine 不会在外部服务器上存储任何信息。
+NOMBRE_PROYECTO: 项目名称：
+HINT_PROYECTO: 使用字母、数字和连字符。不含空格或特殊字符。
+SOY_NUEVO: 我是新手
+HINT_SOY_NUEVO: 启用此选项可在打开项目时获得基础指南。
+CREAR: 创建
+SIN_PROYECTOS: 您还没有任何项目。创建一个开始吧！
+TIPO_COLAB: 协作类型:
+COLAB_LOCAL: 本地
+COLAB_ONLINE: 在线
+HINT_COLAB_LOCAL: 连接到同一 wifi 网络中的伙伴。
+HINT_COLAB_ONLINE: 通过 Carley 服务器连接。
+INGRESAR_CODIGO: 输入代码
+NO_DISPONIBLE: 不可用
+
+# Libraries
+LIBRERIAS: 库
+IMPORTAR: 导入
+EXPORTAR: 导出
+DOCS_API: API 文档
+SIN_LIBRERIAS: 在项目的 /lib 文件夹中未找到任何库。
+SIN_LIBRERIAS_HINT: 使用“创建”开始新库，或使用“导入”添加现有的 .celib 文件。
+CREAR_NUEVA_LIBRERIA: 创建新库
+INFO_BASICA: 基本信息
+NOMBRE_LIBRERIA: 库名称
+AUTOR_ORG: 作者 / 组织
+VERSION: 版本
+FIRMA: 签名（可选）
+ICONO_LIBRERIA: 库图标
+HINT_ICONO_LIB: 将在商店中显示的主图标。
+ICONO_AUTOR: 作者图标
+HINT_ICONO_AUTOR: 一个小图标或头像。
+FUNC_PERMISOS: 功能与权限
+DESCRIPCION_USO: 说明 / 如何使用
+ARCHIVOS_LIB: 库文件 (.js, .ces)
+DROP_ARCHIVOS: 将文件拖放到此处，或点击选择。
+HINT_ARCHIVOS_LIB: 添加一个或多个文件。引擎会将它们合并。如果您使用编辑器 API（面板等），主脚本必须是 .js 文件。
+PERMISO_WINDOWS: 允许在编辑器中创建窗口和面板。
+PERMISO_RUNTIME: 允许通过脚本 (.ces) 访问其函数。
+PERMISO_TOOL: 它是引擎的内部工具（例如：翻译）。
+PERMISO_COMPONENTS: 允许注册自定义组件。
+PERMISO_ASSETS: 允许创建和修改资源。
+CREAR_LIBRERIA: 创建库
+DETALLES_LIBRERIA: 库详情
+INFORMACION: 信息
+ESTADO_PERMISOS: 状态与权限
+ESTADO: 状态
+ACTIVO: 已激活
+INACTIVO: 未激活
+ACTIVAR: 激活
+GESTIONAR: 管理
+ACTIVIDAD: 活动
+DESACTIVAR: 停用
+ACTIVADA: 已激活
+DESACTIVADA: 已停用
+SIN_DESCRIPCION: 无说明。
+SIN_PERMISOS: 无特殊权限。
+IMPORTAR_LIBRERIA: 导入库
+NO_ACTIVIDAD_RECIENTE: 最近没有活动。
+
+# Asset Browser
+CREAR_CARPETA: 创建文件夹
+NOMBRE_CARPETA_PROMPT: 输入新文件夹的名称：
+CREAR_CONTROLADOR_ANIMACION: 创建动画控制器
+NOMBRE_CONTROLADOR_PROMPT: 输入新控制器 (.ceanim) 的名称：
+CREAR_PREFAB: 创建预制件
+NOMBRE_PREFAB_PROMPT: 输入新预制件 (.ceprefab) 的名称：
+CREAR_SCRIPT_CHC: 创建 H-Code 脚本
+NOMBRE_SCRIPT_PROMPT: 输入新脚本的名称：
+CREAR_SCRIPT: 创建脚本
+CREAR_ESCENA: 创建场景
+NOMBRE_ESCENA_PROMPT: 输入新场景 (.ceScene) 的名称：
+CREAR_ANIMACION: 创建动画资源
+NOMBRE_ANIMACION_PROMPT: 输入新资源 (.cea) 的名称：
+CREAR_README: 创建 Readme 文件
+NOMBRE_ARCHIVO_PROMPT: 输入文件名：
+CREAR_PALETA_TILES: 创建瓦片调色板
+NOMBRE_PALETA_PROMPT: 输入新调色板 (.cepalette) 的名称：
+CONFIRMAR_BORRADO: 确认删除
+BORRAR_ASSET_CONFIRM: 您确定要删除吗
+ACCION_IRREVERSIBLE: 此操作无法撤销。
+RENOMBRAR_ASSET: 重命名资源
+INTRODUCE_NUEVO_NOMBRE: 输入新名称：
+CARPETA_VACIA: 文件夹为空
+ARCHIVO_LEAME: Readme 文件 (.md)
+ASSET_ANIMACION: 动画资源 (.cea)
+IMAGE: 图像
+TERRENO: 地形
+TERRENO_3D: 3D 地形
+CANVAS: 画布
+PANEL: 面板
+
+# Editor Menubar
+ARCHIVO: 文件
+EDITAR: 编辑
+VENTANA: 窗口
+AYUDA: 帮助
+CURSO_SCRIPTING: 脚本课程
+COMBATANT: 战斗员
+DOCUMENTACION: 文档
+NUEVA_ESCENA: 新场景
+ABRIR_ESCENA: 打开场景...
+GUARDAR_ESCENA: 保存场景
+IMPORTAR_PROYECTO: 导入项目...
+EXPORTAR_PROYECTO: 导出项目...
+IMPORTAR_ASSET: 导入资源...
+IMPORTAR_MODELO_3D: 导入3D模型...
+EXPORTAR_ASSET_BTN: 导出资源...
+BUILD: 构建
+CONFIG_PROYECTO: 项目设置
+PREFERENCIAS: 偏好设置
+
+# Editor Windows
+ESCENA: 场景
+JERARQUIA: 层级
+INSPECTOR: 检查器
+NAVEGADOR: 浏览器
+CONSOLA: 控制台
+DEPURADOR: 调试器
+EDITOR_ANIMACION: 动画编辑器
+CONTROLADOR_ANIMACION: 动画控制器
+PALETA_TILES: 瓦片调色板编辑器
+EDITOR_SPRITES: 精灵编辑器
+CONTROL_AMBIENTE: 环境控制
+SISTEMA_VERIFICACION: 验证系统
+ACTUALIZACIONES: 更新
+REINICIAR_VENTANAS: 重置窗口
+ACTIVIDAD_COLABORATIVA: 协作活动
+TIENDA_ASSETS: 资源商店
+VID_SPRI: Vid Spri
+VISTA_ESCENA: 场景
+VISTA_JUEGO: 游戏
+VISTA_CODIGO: 代码
+VISTA_TERMINAL: 终端
+
+# Hierarchy Context
+CIRCLE_COLLIDER_2D: 2D 圆形碰撞体
+CREAR_MATERIA: 创建物质
+MATERIA_VACIA: 空
+MATERIA_2D: 2D
+SPRITE: 精灵
+TILEMAP: 瓦片图
+TERRENO_2D: 2D 地形
+PARALLAX: 视差
+RECTANGULO: 矩形
+CIRCULO: 圆形
+TRIANGULO: 三角形
+TRIANGLE: 3D 三角形
+CAPSULA: 胶囊体
+UI: 界面
+BOTON: 按钮
+TEXTO: 文本
+LUZ: 光源
+LUZ_2D: 2D 光源
+LUZ_3D: 3D 光源
+LUZ_PUNTO: 点光源
+LUZ_FOCAL: 聚光灯
+LUZ_FORMA_LIBRE: 自由形状光源
+LUZ_SPRITE: 精灵光源
+CAMARA: 摄像机
+AUDIO: 音频
+VIDEO: 视频
+WATER: 水
+LINE_COLLIDER: 线碰撞体
+ESCENA_VACIA: 场景为空。<br>右键点击创建对象。
+RENOMBRAR: 重命名
+DUPLICAR: 复制
+ELIMINAR: 删除
+
+# Inspector
+ADD_LEY: 添加法律
+LEY: 法律
+LEYES: 法律
+TRANSFORM: 变换
+POSICION: 位置
+ROTACION: 旋转
+ESCALA: 缩放
+MOVEMENT_BASIC: 基础移动
+MOVEMENT_LATERAL: 侧面移动 (2D)
+MOVEMENT_TOPDOWN: 自上而下移动 (2D)
+TEXTURE_RENDER: 纹理渲染器
+VERTICAL_LAYOUT: 垂直布局
+HORIZONTAL_LAYOUT: 水平布局
+GRID_LAYOUT: 网格布局
+SIZE_FITTER: 尺寸适配器
+VIDEO_PLAYER: 视频播放器
+HEALTH_COMPONENT: 生命组件
+ATTACK_COMPONENT: 攻击组件
+SCROLL_RECT: 滚动区域
+UI_MASK: UI 遮罩
+UI_COLLIDER: UI 碰撞体
+PATROL_COMPONENT: 巡逻
+POLYGON_COLLIDER_2D: 多边形碰撞体 2D
+UI_TRANSFORM: UI 变换
+UI_IMAGE: UI 图像
+UI_TEXT: UI 文本
+SPRITE_RENDERER: 精灵渲染器
+AUDIO_SOURCE: 音源
+SUSPENSION_HC: 悬挂系统 HC
+VEHICLE_TOPDOWN: 俯视载具
+PLANE_CONTROLLER: 飞机控制器
+HELICOPTER_CONTROLLER: 直升机控制器
+SKINNED_MESH_RENDERER_3D: 3D带权网格渲染器
+ANIMATOR_3D: 3D动画器
+SKELETON_RENDERER: 骨骼渲染器
+IK_MANAGER_2D: IK 管理器 2D
+BASIC_AI: 基础人工智能
+RIGIDBODY_2D: 刚体 2D
+BOX_COLLIDER_2D: 盒体碰撞体 2D
+BODY_TYPE: 刚体类型
+DYNAMIC: 动态
+STATIC: 静态
+KINEMATIC: 运动学
+RIGIDBODY_COLLIDER_WARNING: 刚体需要碰撞体才能进行物理交互。
+PROJECTILE_LAUNCHER_COMPONENT: 弹射器
+AUTO_DESTROY_COMPONENT: 自动销毁
+CAMERA_FOLLOW_COMPONENT: 摄像机跟随
+FIRE_SOUND: 发射声音
+PROP_FLIP_X: 水平翻转
+PROP_FLIP_Y: 垂直翻转
+NADA_SELECCIONADO: 未选择任何内容
+ACTIVAR_DESACTIVAR_MATERIA: 启用/禁用物质
+TAG: 标签
+LAYER: 渲染层
+ADD_TAG_ELLIPSIS: 添加标签...
+EDIT_LAYERS_ELLIPSIS: 编辑渲染层...
+SELECCIONAR_TAGS: 选择标签
+MULTIPLE: 多个
+TAGS_SELECTOR_INSTRUCTION: 选择要分配给此对象的标签：
+SELECCIONAR_LAYERS: 选择渲染层
+LAYERS_SELECTOR_INSTRUCTION: 选择要分配给该对象的渲染层（绘制层）：
+AÑADIR_LEY_TITULO: 添加法律 (组件)
+CAT_AUDIO: 音频/视频
+CAT_RENDERIZADO: 渲染
+CAT_MAPA: 地图
+CAT_ILUMINACION: 照明
+CAT_UTILIDADES: 工具
+CAT_ANIMACION: 动画
+CAT_CAMARA: 摄像机
+CAT_FISICAS: 物理
+CAT_OPTIMIZACION: 优化
+CAT_UI: 界面
+CAT_VEHICULOS_LATERAL: 横版载具 (2D)
+CAT_VEHICULOS_CENITAL: 俯视角载具 (Top-Down)
+CAT_DISPAROS_LATERAL: 横版射击 (Side-View)
+CAT_DISPAROS_CENITAL: 俯视角射击 (Top-Down)
+CAT_AVENTURA_ROL: 冒险与角色扮演 (RPG)
+CAT_FPS_LATERAL: 横版射击 (FPS)
+CAT_FPS_CENITAL: 俯视角射击 (FPS)
+CAT_BASICO_3D: 基础 3D
+CAT_FISICA_3D: 物理 3D
+CAT_AUDIO_3D: 音频 3D
+CAT_CAMARA_3D: 摄像机 3D
+CAT_OTROS_3D: 其他 3D
+CAT_SCRIPTING: 脚本
+COMPONENTES_PERSONALIZADOS: 自定义组件
+SCRIPTS: 脚本
+ESCANEO_PROGRESO: 脚本扫描已在进行中...
+BUSCANDO_SCRIPTS: 正在查找脚本...
+SIN_SCRIPTS_HINT: 在 Assets 文件夹中未找到任何脚本 (.ces)。
+ERROR_BUSCAR_SCRIPTS: 查找脚本时出错。
+CARGA_ANIM_HINT: 选择动画资源 (.cea) 以开始。
+CREAR_ANIM_RAPIDA: 创建新动画
+ABRIR_ANIM_RAPIDA: 打开现有
+CARGA_ANIM_CTRL_HINT: 加载控制器资源 (.ceanim) 以开始。
+CREAR_CTRL_RAPIDO: 创建新控制器
+ABRIR_CTRL_RAPIDO: 打开现有
+
+# Engine Terms
+VELOCIDAD: 速度
+POTENCIA: 功率
+MASA: 质量
+GRAVEDAD: 重力
+REBOTE: 弹力
+DISTANCIA: 距离
+ANGULO: 角度
+LONGITUD: 长度
+VOLUMEN: 音量
+BUCLE: 循环 (Loop)
+REPRODUCIR: 播放
+DETENER: 停止
+PAUSAR: 暂停
+
+# Performance
+RENDIMIENTO: 性能
+MAX_FPS: 最大 FPS
+MIN_FPS: 最小 FPS
+HINT_MAX_FPS: 限制 FPS 以节省电池和资源。使用 0 表示无限制。
+HINT_MIN_FPS: 如果性能接近此值，引擎将触发极端优化。
+HINT_MIN_FPS_NOTICE: 注意：此最小量无法保证，但它将触发深度优化以尝试保持流畅性。
+
+# Combat & Health
+HEALTH: 生命值
+MAX_HEALTH: 最大生命值
+CURRENT_HEALTH: 当前生命值
+DEATH_ANIMATION: 死亡动画
+FREEZE_FRAME: 冻结帧
+DESTRUCTION_DELAY: 销毁延迟
+DISABLE_MOVEMENT: 禁用移动
+ATTACK: 攻击
+ATTACKS: 攻击列表
+CYCLE_KEY: 循环按键
+COOLDOWN: 冷却时间
+COLLIDER_MATERIA: 碰撞体对象
+DAMAGE: 伤害
+PUSH_FORCE: 推力
+PROGRESS_BAR: 进度条
+SCROLL_VIEW: 滚动视图
+TARGET_MATERIA: 目标对象
+FILL_MATERIA: 填充对象
+ORIENTATION: 方向
+SCENE_LOADER: 加载场景
+SCENE_PATH: 场景路径
+TRIGGER_TAG: 触发标签
+TRIGGER_KEY: 触发按键
+BUTTON_MATERIA: 按钮对象
+SCENE_LOADER_DESC: 当玩家发生碰撞、按下按键或点击指定的按钮时加载场景。
+CARGA_ANIM_CTRL_HINT_2: 您可以创建一个新控制器或打开一个现有控制器。
+ANIMACIONES: 动画
+ESTADOS: 状态
+INSPECTOR_ESTADO: 状态检查器
+BUSCAR_ANIMACIONES: 搜索动画...
+HINT_SELECCIONA_ELEMENTO: 选择一个元素以查看其属性。
+
+# Novice Guide
+TITULO_NOVATO: ¡Bienvenido!
+MSG_NOVATO: Hola, has activado la casilla de novatos. Si quieres, puedes desactivarla aquí. Aquí tienes una guía básica para empezar:
+DESACTIVAR_GUIA: Desactivar guía para este proyecto
+CONSEJO_NOVATO_1: 1. Crea una Materia en la Jerarquía para empezar tu objeto.
+CONSEJO_NOVATO_2: 2. Añade una Ley (Componente) en el Inspector para darle propiedades.
+CONSEJO_NOVATO_3: 3. Usa Scripts (.ces) en el Navegador para programar la lógica.
+IR_A_DOCUMENTACION: Ver Documentación
+ACCESOS_RAPIDOS: Accesos Rápidos:
+
+# Carl Proactive
+CARL_TIP_TITLE: Carl tiene un consejo
+CARL_TIP_ACTION: Ver sugerencia
+CARL_TIP_FIX_PROMPT: He notado que tienes este error varias veces: "{error}". ¿Quieres que analice tu código y te proponga una solución?
+
+# Novice Guide
+
+# Carl Proactive
+
+# Novice Guide
+
+# Carl Proactive
+
+# Novice Guide
+
+# Novice Guide
+
+# Preferences
+RESTABLECER_MOTOR: Restablecer Datos del Motor
+CONFIRM_RESTABLECER: ¿Estás seguro de que quieres borrar todos los datos locales del motor? Esto te pedirá elegir la carpeta de proyectos de nuevo. Tus archivos en el disco NO se verán afectados.
+HINT_RESTABLECER: Borra toda la configuración local (Carpeta de proyectos, claves de IA, etc.). Los archivos de tus proyectos en el disco NO se borrarán.
+OPCIONES_AVANZADAS: Opciones Avanzadas
+APARIENCIA: 外观
+IDIOMA: 语言
+TEMA_EDITOR: 编辑器主题
+OSCURO_MODERNO: 现代深色
+CLARO: 浅色
+AZUL_MARINO: 海军蓝
+PERSONALIZADO: 自定义
+AUTOSAVE: 脚本自动保存
+RESETEAR_DISENO: 重置面板布局
+TITULO_PREFERENCIAS: 编辑器偏好设置
+GUARDAR_PREFERENCIAS: 保存偏好设置
+GUARDAR_CAMBIOS: 保存更改
+KEY: 按键
+ANIM: 动画
+NINGUNA: 无
+GENERATE_COLLIDERS: 生成碰撞体
+COLLIDERS_GENERATED: 已生成碰撞体
+SOURCE_LAYER: 源图层
+USE_ALL_LAYERS: 使用所有图层
+TEXTURE_TYPE: 纹理类型
+SPRITE_MODE: 精灵模式
+PIXELS_PER_UNIT: 每单位像素
+MESH_TYPE: 网格类型
+FILTER_MODE: 过滤模式
+WRAP_MODE: 包裹模式
+MAX_SIZE: 最大尺寸
+COMPRESSION: 压缩
+COLUMNS: 列
+ROWS: 行
+PACKAGE_TYPE: 包类型
+DESCRIPTION: 描述
+AUDIO_PREVIEW: 音频预览
+ACTIONS: 操作
+QUALITY: 质量
+OPTIMIZATION_QUALITY: 优化与质量
+ROOT_COMPONENTS: 根组件
+STRUCTURE: 结构
+EDIT_PREFAB: 编辑预制件
+ANIMATION_PREVIEW: 动画预览
+SLICING: 切片
+CREATE_ANIM_ASSET: 创建动画资源 (.cea)
+APPLY: 应用
+PRESETS: 预设
+WHITE: 白色
+YELLOW: 黄色
+GOLD: 金色
+ORANGE: 橙色
+RED: 红色
+GREEN: 绿色
+CYAN: 青色
+BLUE: 蓝色
+VIOLET: 紫色
+POSE_CAPTURADA: 基础姿势已捕捉。
+COMPONENTE: 组件
+SIN_FUNCION: 无功能
+EFECTO_PLATAFORMA: 平台效果
+CLICK_BORDES: 点击边缘以锁定/解锁
+TIPO_MOVIMIENTO: 移动类型
+VAGAR: 游荡
+ESCAPAR: 逃跑
+SEGUIR: 跟随
+RANGO_ATAQUE: 攻击范围
+AL_PERDER_OBJETIVO: 丢失目标时
+AL_VER_OBJETIVO: 看到目标时
+CONFIG_MOTOR: 引擎设置
+FUERZA_INCLINACION: 倾斜强度
+CONTROL_AIRE: 空中转向
+ESTABILIDAD_AIRE: 自动稳定
+CENTRADO_SUELO: 地面居中
+AGILIDAD_GIRO: 转向灵敏度
+ARRASTRE_AIRE: 空气阻力
+SUSTENTACION: 升力
+VELOCIDAD_DESPEGUE: 起飞速度
+DERRAPE: 漂移
+FRENO_MOTOR: 引擎制动
+VEHICLE_SIDE_VIEW_2D: Vehículo Lateral 2D
+WHEELS: Ruedas
+SPRING_SETTINGS: Configuración de Muelle
+STIFFNESS: Dureza
+DAMPING: Amortiguación
+REST_LENGTH: Largo Reposo
+CONSTRAINT_AXIS: Eje (Local)
+ENGINE_SETTINGS: Configuración de Motor
+MOTOR_BRAKE: Freno Motor
+PITCH_STRENGTH: Inclinación
+AIR_TURN: Giro Aire
+AUTO_STABILIZE: Auto-Estabilizar
+GROUND_CENTERING: Centrado Suelo
+ACCELERATE_KEY: Tecla Acelerar
+BRAKE_KEY: Tecla Frenar
+
+# Added in V4
+SISTEMAS: Sistemas Inteligentes
+UI_MOVIMIENTO: UI de Movimiento
+MENU_PRINCIPAL: Menú Principal
+GESTOR_NIVELES: Gestor de Niveles
+LIMPIAR_CACHE: Limpiar Caché
+
+# Script Monitor & Scene Monitor
+MONITOR_SCRIPTS: 脚本监视器
+MONITOR_ESCENA: 场景监视器
+MONITOR_RED_GLOBAL: 允许网络 (全局)
+MONITOR_BORRAR: 清除
+MONITOR_TABLA_SCRIPT: 脚本
+MONITOR_TABLA_ESTADO: 状态
+MONITOR_TABLA_ULT_FUNC: 最近函数
+MONITOR_TABLA_EJECS: 执行次数
+MONITOR_TABLA_TIEMPO: 时间 (平均/单次)
+MONITOR_TABLA_RAM: 预估内存
+MONITOR_TABLA_RED: 网络访问
+MONITOR_DETALLES_LOGS: 请求日志 (最后10条)
+MONITOR_SIN_REGISTROS: 无网络活动记录。
+MONITOR_SIN_SCRIPTS: 本次会话中尚未执行任何脚本。
+MONITOR_EXITOS: 成功
+MONITOR_ERRORES: 错误
+MONITOR_LENTOS: 慢
+MONITOR_GUARDAR_HISTORIAL: 保存历史
+MONITOR_BORRAR_SESION: 清除会话
+MONITOR_ANALISIS_DETALLADO: 函数详细分析
+MONITOR_SUGERENCIAS: 优化建议
+MONITOR_RED_RECIENTES: 最近网络请求
+MONITOR_FUNCION: 函数
+MONITOR_LLAMADOS: 调用次数
