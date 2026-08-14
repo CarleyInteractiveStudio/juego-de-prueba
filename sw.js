@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ce-game-cache-1786659581539';
+const CACHE_NAME = 'ce-game-cache-1786669782255';
 const ASSETS = [
   './',
   './index.html',
