@@ -1,6 +1,6 @@
 {
   "appName": "Batalla Infinita",
-  "appVersion": "1.0.11",
+  "appVersion": "1.0.12",
   "projectType": "2d",
   "rendererMode": "canvas2d",
   "isNewUser": false,
@@ -62,7 +62,7 @@
   },
   "appAuthor": "Carley Interactive Studio",
   "appIcon": "Assets/portada.jpg",
-  "resourceLoadingMode": "preload",
+  "resourceLoadingMode": "lazy",
   "includeUnusedAssets": false,
   "runAfterBuild": true,
   "exportTarget": "zip",
